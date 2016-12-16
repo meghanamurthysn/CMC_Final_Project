@@ -1,0 +1,129 @@
+[
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "hey folks, i know recursion can be tricky so i\u2019m planning on devoting the first 15 minutes of office hours to a group review of the concepts from lab. if you\u2019re really having trouble with that aspect, please try to be there at the start (it\u2019s ok if you want this but can\u2019t make it right at the beginning, of course, but hit me on the side if this is the case). will spend the rest of the time doing normal office hours",
+        "ts": "1474244307.000033",
+        "reactions": [
+            {
+                "name": "large_blue_circle",
+                "users": [
+                    "U1HAU35L1",
+                    "U1WP3C77X"
+                ],
+                "count": 2
+            },
+            {
+                "name": "red_circle",
+                "users": [
+                    "U1HAU35L1",
+                    "U1VBEAWE4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "also, just to get a sense of numbers, i\u2019d appreciate if you\u2019d vote blue on the above post if you\u2019re planning on coming to group, and red if you\u2019re planning on coming to office hours for other purposes. and feel free to hit me on the side if you\u2019d like to do either but don\u2019t want to sign your name to it",
+        "edited": {
+            "user": "U1HAU35L1",
+            "ts": "1474245072.000000"
+        },
+        "ts": "1474245031.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "(and its definitely ok if you dont vote or @ me and want to come to either)",
+        "ts": "1474245646.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "what time is that?",
+        "ts": "1474259754.000037"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGET0A",
+        "text": "<@U1Z9AU3EG> Paul's office hours == 206 Lab",
+        "ts": "1474262214.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGET0A",
+        "text": "<@U1HAU35L1>  and what will you cover in the lecture on Tuesday?",
+        "ts": "1474262290.000039"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "thanks",
+        "ts": "1474262333.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "<@U1UKGET0A> you can guess I am consumed by assignment this weekend :slightly_smiling_face:",
+        "ts": "1474262372.000041",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1UKGET0A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "<@U1UKGET0A> <@U1Z9AU3EG> a quick clarification, apart from the lab on wednesday, every week we have TA office hours on thursday 10:30 -11:30  and mondays 5:30-6:30 in the colab",
+        "ts": "1474262836.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "these sessions are explicitly for helping with the homeworks or for any general questions around 206",
+        "ts": "1474262876.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "got that!",
+        "ts": "1474262880.000044"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "Typically me and <@U1HAU35L1> will alternately take the complete ownerships for the assignments",
+        "ts": "1474262922.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "meaning for that assignment, the lab and the office hours of the following thursday &amp; monday would be taken by the same TA",
+        "ts": "1474262962.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "PS : you can catch Paul tomorrow in office hours",
+        "ts": "1474263116.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGET0A",
+        "text": "oops, sorry, <@U1Z9AU3EG>, I thought, Paul said like \"this is our office hours\" during the 1st lab. Ok, and what guys will you do with Tu-Th lecture?",
+        "ts": "1474263283.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "np",
+        "ts": "1474263336.000049"
+    }
+]

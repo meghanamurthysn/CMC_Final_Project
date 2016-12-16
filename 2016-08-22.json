@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1UHK7DEX",
+        "text": "<@U1UHK7DEX|dina.bseiso> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1471917255.000002"
+    }
+]

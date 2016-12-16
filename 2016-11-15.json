@@ -1,0 +1,234 @@
+[
+    {
+        "type": "message",
+        "user": "U1V17D2K1",
+        "text": "for all you wondering: we have seasons because of axial tilt, not the orbit path <http:\/\/www.primaryhomeworkhelp.co.uk\/time\/seasons.htm>",
+        "ts": "1479230279.000128",
+        "reactions": [
+            {
+                "name": "earth_americas",
+                "users": [
+                    "U1V17D2K1",
+                    "U1UKGBYUA"
+                ],
+                "count": 2
+            },
+            {
+                "name": "sunny",
+                "users": [
+                    "U1V17D2K1",
+                    "U1UKGBYUA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1UKGET0A",
+        "text": "Who is doing hw10 on Windows? SOS",
+        "ts": "1479230448.000129",
+        "reactions": [
+            {
+                "name": "hand",
+                "users": [
+                    "U1XFC778A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "me.",
+        "ts": "1479230535.000130"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "me too",
+        "ts": "1479230792.000131"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "<http:\/\/www.moonconnection.com\/moon_phases.phtml>",
+        "attachments": [
+            {
+                "title": "Moon Phases \/ Lunar Phases Explained",
+                "title_link": "http:\/\/www.moonconnection.com\/moon_phases.phtml",
+                "text": "An explanation of the moon phases using a colorful diagram with realistic images.",
+                "fallback": "Moon Phases \/ Lunar Phases Explained",
+                "from_url": "http:\/\/www.moonconnection.com\/moon_phases.phtml",
+                "service_name": "moonconnection.com",
+                "id": 1
+            }
+        ],
+        "ts": "1479231354.000132",
+        "reactions": [
+            {
+                "name": "first_quarter_moon_with_face",
+                "users": [
+                    "U1V17D2K1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "full_moon_with_face",
+                "users": [
+                    "U1V17D2K1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "last_quarter_moon_with_face",
+                "users": [
+                    "U1V17D2K1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "new_moon_with_face",
+                "users": [
+                    "U1V17D2K1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "sorry guys... I was going to say personal computer",
+        "ts": "1479231493.000134"
+    },
+    {
+        "type": "message",
+        "user": "U1X9JL550",
+        "text": "<@U1HAU35L1> <@U1UJXHWB0> I tried running the program using Windows PowerShell as you suggested but still facing the same issue",
+        "ts": "1479245001.000136"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1X9JL550|meghanamurthy> uploaded a file: <https:\/\/ucbischool.slack.com\/files\/meghanamurthy\/F33M9N52T\/pasted_image_at_2016_11_15_01_23_pm.png|Pasted image at 2016-11-15, 1:23 PM>",
+        "file": {
+            "id": "F33M9N52T",
+            "created": 1479245005,
+            "timestamp": 1479245005,
+            "name": "Pasted image at 2016_11_15 01_23 PM.png",
+            "title": "Pasted image at 2016-11-15, 1:23 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1X9JL550",
+            "editable": false,
+            "size": 58386,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F33M9N52T\/pasted_image_at_2016_11_15_01_23_pm.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F33M9N52T\/download\/pasted_image_at_2016_11_15_01_23_pm.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F33M9N52T-63438027e0\/pasted_image_at_2016_11_15_01_23_pm_64.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F33M9N52T-63438027e0\/pasted_image_at_2016_11_15_01_23_pm_80.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F33M9N52T-63438027e0\/pasted_image_at_2016_11_15_01_23_pm_360.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360_w": 360,
+            "thumb_360_h": 160,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F33M9N52T-63438027e0\/pasted_image_at_2016_11_15_01_23_pm_480.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_480_w": 480,
+            "thumb_480_h": 214,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F33M9N52T-63438027e0\/pasted_image_at_2016_11_15_01_23_pm_160.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F33M9N52T-63438027e0\/pasted_image_at_2016_11_15_01_23_pm_720.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_720_w": 720,
+            "thumb_720_h": 321,
+            "image_exif_rotation": 1,
+            "original_w": 842,
+            "original_h": 375,
+            "permalink": "https:\/\/ucbischool.slack.com\/files\/meghanamurthy\/F33M9N52T\/pasted_image_at_2016_11_15_01_23_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T0WA5NWKG-F33M9N52T-169eada2cb",
+            "channels": [
+                "C1UJZTSQ0"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1X9JL550",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1X9JL550|meghanamurthy>",
+        "bot_id": null,
+        "ts": "1479245007.000137"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "This is a wild theory, but can you delete a single record from the Json file and save it with a different name and try that",
+        "ts": "1479245316.000138"
+    },
+    {
+        "type": "message",
+        "user": "U1X9JL550",
+        "text": "i tried with 5K records instead of 10K",
+        "ts": "1479245357.000139"
+    },
+    {
+        "type": "message",
+        "user": "U1X9JL550",
+        "text": "still the same issue",
+        "ts": "1479245364.000140"
+    },
+    {
+        "type": "message",
+        "user": "U1X9JL550",
+        "text": "To be precise, it is running if I reduce the dataset to have only 328 records",
+        "ts": "1479246015.000141"
+    },
+    {
+        "type": "message",
+        "user": "U1X9JL550",
+        "text": "anything over that it errors out",
+        "ts": "1479246027.000142"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "can you share your code with me? I would like to debug it if I find a windows machine...",
+        "ts": "1479246279.000143"
+    },
+    {
+        "type": "message",
+        "user": "U1X9JL550",
+        "text": "okay sure",
+        "ts": "1479246315.000144"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "this is the same problem i have",
+        "ts": "1479248341.000145"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGET0A",
+        "text": "<https:\/\/lh3.googleusercontent.com\/-7UdlpIo6Qy8\/WBrIGUShGcI\/AAAAAAAB4iA\/4FBjKS-UV9A0O3YuWBqYktnB4TBUCErnwCJoC\/w639-h471\/2016-11-02.gif>",
+        "attachments": [
+            {
+                "fallback": "320x236px image",
+                "image_url": "https:\/\/lh3.googleusercontent.com\/-7UdlpIo6Qy8\/WBrIGUShGcI\/AAAAAAAB4iA\/4FBjKS-UV9A0O3YuWBqYktnB4TBUCErnwCJoC\/w639-h471\/2016-11-02.gif",
+                "image_width": 320,
+                "image_height": 236,
+                "image_bytes": 7193112,
+                "is_animated": true,
+                "from_url": "https:\/\/lh3.googleusercontent.com\/-7UdlpIo6Qy8\/WBrIGUShGcI\/AAAAAAAB4iA\/4FBjKS-UV9A0O3YuWBqYktnB4TBUCErnwCJoC\/w639-h471\/2016-11-02.gif",
+                "id": 1
+            }
+        ],
+        "ts": "1479280528.000148"
+    }
+]

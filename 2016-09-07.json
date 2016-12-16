@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1UHK81K5",
+        "text": "<@U1UHK81K5|jeanie> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1473270935.000002"
+    },
+    {
+        "user": "U1UJXHM2S",
+        "text": "<@U1UJXHM2S|jong-kai> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1473284224.000003"
+    }
+]

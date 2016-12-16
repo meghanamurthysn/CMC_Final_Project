@@ -1,0 +1,29 @@
+[
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "Useful stuff",
+        "attachments": [
+            {
+                "fallback": "[October 22nd, 2016 8:23 AM] paul.glenn: <http:\/\/programming-motherfucker.com\/>",
+                "ts": "1477149798.001080",
+                "author_subname": "paul.glenn",
+                "channel_id": "C0WAD5PDK",
+                "channel_name": "noise",
+                "is_msg_unfurl": true,
+                "text": "<http:\/\/programming-motherfucker.com\/>",
+                "author_name": "Paul Glenn",
+                "author_link": "https:\/\/ucbischool.slack.com\/team\/paul.glenn",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-07-27\/63928608837_66596a56d8583c5c606f_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/ucbischool.slack.com\/archives\/noise\/p1477149798001080",
+                "is_share": true,
+                "footer": "Posted in #noise"
+            }
+        ],
+        "ts": "1477171549.000257"
+    }
+]

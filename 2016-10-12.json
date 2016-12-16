@@ -1,0 +1,61 @@
+[
+    {
+        "type": "message",
+        "user": "U1V3CTY2D",
+        "text": "impressive story",
+        "ts": "1476256915.000124"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1UKGET0A|natasha> uploaded a file: <https:\/\/ucbischool.slack.com\/files\/natasha\/F2NPPGRQV\/fetching_pubkey_on_win.png|@keshavp, this thing does not give me your public key..>",
+        "file": {
+            "id": "F2NPPGRQV",
+            "created": 1476340167,
+            "timestamp": 1476340167,
+            "name": "fetching pubkey on Win.png",
+            "title": "@keshavp, this thing does not give me your public key..",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1UKGET0A",
+            "editable": false,
+            "size": 143672,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F2NPPGRQV\/fetching_pubkey_on_win.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F2NPPGRQV\/download\/fetching_pubkey_on_win.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2NPPGRQV-9d987fe819\/fetching_pubkey_on_win_64.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2NPPGRQV-9d987fe819\/fetching_pubkey_on_win_80.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2NPPGRQV-9d987fe819\/fetching_pubkey_on_win_360.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360_w": 360,
+            "thumb_360_h": 328,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2NPPGRQV-9d987fe819\/fetching_pubkey_on_win_480.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_480_w": 480,
+            "thumb_480_h": 438,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2NPPGRQV-9d987fe819\/fetching_pubkey_on_win_160.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "image_exif_rotation": 1,
+            "original_w": 628,
+            "original_h": 573,
+            "permalink": "https:\/\/ucbischool.slack.com\/files\/natasha\/F2NPPGRQV\/fetching_pubkey_on_win.png",
+            "permalink_public": "https:\/\/slack-files.com\/T0WA5NWKG-F2NPPGRQV-72a5981bc5",
+            "channels": [
+                "C1UJZTSQ0"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1UKGET0A",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1UKGET0A|natasha>",
+        "bot_id": null,
+        "ts": "1476340171.000125"
+    }
+]

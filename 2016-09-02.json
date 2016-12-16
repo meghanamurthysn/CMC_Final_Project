@@ -1,0 +1,45 @@
+[
+    {
+        "user": "U1XFMUQ9F",
+        "text": "<@U1XFMUQ9F|kurt> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472860144.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<https:\/\/twitter.com\/nnnnnnnn\/status\/771794801725284352>",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/nnnnnnnn|@nnnnnnnn>: .<https:\/\/twitter.com\/CodaFi_|@CodaFi_> Oh, that's just the new Big:ok_hand: notation:\nO(1): O:clap:\nO(log n): O:+1:\nO(n): O:-1:\nO(n^c): O:hand:\nO(c^n): O:facepunch:\nO(n!): O:middle_finger:",
+                "ts": 1472845194,
+                "author_name": "Nate Cook",
+                "author_link": "https:\/\/twitter.com\/nnnnnnnn\/status\/771794801725284352",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/478115454439804928\/QuM3-p-M_normal.jpeg",
+                "author_subname": "@nnnnnnnn",
+                "text": ".<https:\/\/twitter.com\/CodaFi_|@CodaFi_> Oh, that's just the new Big:ok_hand: notation:\nO(1): O:clap:\nO(log n): O:+1:\nO(n): O:-1:\nO(n^c): O:hand:\nO(c^n): O:facepunch:\nO(n!): O:middle_finger:",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/nnnnnnnn\/status\/771794801725284352",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "ts": "1472865858.000020",
+        "reactions": [
+            {
+                "name": "nerd_face",
+                "users": [
+                    "U1V1LB2DQ",
+                    "U1UJZQAMN",
+                    "U1VBEAWE4",
+                    "U1V24FB98",
+                    "U1V17D2K1"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

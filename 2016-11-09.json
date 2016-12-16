@@ -1,0 +1,111 @@
+[
+    {
+        "type": "message",
+        "user": "U1WKPSN94",
+        "text": "what to do about 206 section and anno's townhall?",
+        "ts": "1478719350.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "I'm looking into this now",
+        "ts": "1478719812.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "several others and I are not going to be at 206 section if it is at 12. Thanks for looking into other options given the difficulty of the next assignment.",
+        "edited": {
+            "user": "U1V1LB2DQ",
+            "ts": "1478720030.000000"
+        },
+        "ts": "1478720007.000005",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1V17D2K1",
+                    "U22E62NUW",
+                    "U1XF9LMPC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "We understand",
+        "ts": "1478720110.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<!channel> lab will not be at noon. go to the dean\u2019s thing instead. we\u2019re working on alternatives and will keep you updated",
+        "ts": "1478721488.000008",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1V1LB2DQ",
+                    "U1VPDG7B3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": ":+1:",
+        "ts": "1478721507.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<!channel> nnel we\u2019re doing 206 lab right now in the usual room. all 202 sections are moved to 2pm",
+        "edited": {
+            "user": "U1HAU35L1",
+            "ts": "1478725451.000000"
+        },
+        "ts": "1478725445.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "Thank you",
+        "ts": "1478727054.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<https:\/\/youtu.be\/WjJUPxKB164?t=15m00s>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Brett Slatkin - How to Be More Effective with Functions - PyCon 2015",
+                "title_link": "https:\/\/youtu.be\/WjJUPxKB164?t=15m00s",
+                "author_name": "PyCon 2015",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCgxzjK6GuOHVKR_08TT4hJQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/WjJUPxKB164\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Brett Slatkin - How to Be More Effective with Functions - PyCon 2015",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/WjJUPxKB164?start=900&feature=oembed&start=900&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/WjJUPxKB164?t=15m00s",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1478739836.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "as promised, here\u2019s a short video introduction to generators, the relevant section runs from 15:00 to ~18:30 (the link should take you right to the beginning of it). This guy wrote the book \u201cEffective Python\u201d which I think i\u2019ve recommended in here before. BTW the first 15 minutes of the video has a really good explanation of `*args` and `**kwargs` if you\u2019re interested in that",
+        "ts": "1478739929.000017"
+    }
+]

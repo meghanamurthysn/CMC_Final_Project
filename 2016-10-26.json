@@ -1,0 +1,141 @@
+[
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<https:\/\/www.youtube.com\/watch?v=HTLu2DFOdTg>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Python's Class Development Toolkit",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=HTLu2DFOdTg",
+                "author_name": "Next Day Video",
+                "author_link": "https:\/\/www.youtube.com\/user\/NextDayVideo",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/HTLu2DFOdTg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Python's Class Development Toolkit",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/HTLu2DFOdTg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=HTLu2DFOdTg",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1477512086.000263"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "this is a seminal talk from pycon about writing classes in python",
+        "ts": "1477512097.000265"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "Forgot to hit send on the second half of this...it's a ground up look at features and patterns designed for beginners by the python core developer who literally led building the new style classes",
+        "ts": "1477525245.000266"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "That said I'm rewatching this and there's a couple things that might cause confusion like the bit about init not being a constructor (technically it's not, but the distinction is irrelevant and it serves the exact purpose of a constructor, so it's a constructor), it's also very very specific to python",
+        "ts": "1477528207.000267"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "finally, i\u2019m not sure if i ever shared this here, but this is the gist where i keep track of interesting python\/pandas\/coding stuff i\u2019ve found over the last couple years. its 90% all the contents from a python listserv from my old company, but there\u2019s some good stuff <https:\/\/gist.github.com\/pdglenn\/d5e78827f10237b8afc0>",
+        "edited": {
+            "user": "U1HAU35L1",
+            "ts": "1477534844.000000"
+        },
+        "ts": "1477534726.000268"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1HAU35L1|paul.glenn> shared a file: <https:\/\/ucbischool.slack.com\/files\/paul.glenn\/F2UQB4GNA\/Python_Resources_md.md|Python_Resources.md>",
+        "file": {
+            "id": "F2UQB4GNA",
+            "created": 1477534726,
+            "timestamp": 1477534726,
+            "name": "Python_Resources_md.md",
+            "title": "Python_Resources.md",
+            "mimetype": "text\/plain",
+            "filetype": "markdown",
+            "pretty_type": "Markdown (raw)",
+            "user": "U1HAU35L1",
+            "editable": true,
+            "size": 13718,
+            "mode": "snippet",
+            "is_external": true,
+            "external_type": "unknown",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/gist.github.com\/d5e78827f10237b8afc0#file-Python_Resources-md",
+            "url_private_download": "https:\/\/gist.github.com\/d5e78827f10237b8afc0#file-Python_Resources-md",
+            "permalink": "https:\/\/ucbischool.slack.com\/files\/paul.glenn\/F2UQB4GNA\/Python_Resources_md.md",
+            "edit_link": "https:\/\/ucbischool.slack.com\/files\/paul.glenn\/F2UQB4GNA\/Python_Resources_md.md\/edit",
+            "preview": "### IDEs\n\n**Pycharm** - Edu version is free\n\nhttps:\/\/www.jetbrains.com\/pycharm-edu\/",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-header cm-header-3\">### <\/span><span class=\"cm-header cm-header-3\">IDEs<\/span><\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-strong\">**<\/span><span class=\"cm-strong\">Pycharm<\/span><span class=\"cm-strong\">**<\/span> - Edu version is free<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre>https:\/\/www.jetbrains.com\/pycharm-edu\/<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 181,
+            "lines_more": 176,
+            "preview_is_truncated": true,
+            "channels": [
+                "C1UJZTSQ0"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1HAU35L1",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "<@U1HAU35L1|paul.glenn>",
+        "bot_id": null,
+        "ts": "1477534726.000269"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "<https:\/\/code.tutsplus.com\/articles\/python-from-scratch-object-oriented-programming--net-21476>",
+        "attachments": [
+            {
+                "service_name": "Code Envato Tuts+",
+                "title": "Python from Scratch: Object Oriented Programming",
+                "title_link": "https:\/\/code.tutsplus.com\/articles\/python-from-scratch-object-oriented-programming--net-21476",
+                "text": "Welcome back to lesson four in our Python from Scratch series. This tutorial will assume some prior knowledge of variables, data types, functions and print output. If you're not up to date,...",
+                "fallback": "Code Envato Tuts+: Python from Scratch: Object Oriented Programming",
+                "from_url": "https:\/\/code.tutsplus.com\/articles\/python-from-scratch-object-oriented-programming--net-21476",
+                "thumb_url": "https:\/\/cdn.tutsplus.com\/net\/uploads\/legacy\/974_python_from_scratch\/python-from-scratch.png",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.tutsplus.com\/assets\/apple-touch-icon-8b86ba48e7f31535461f183680fe2ac9.png",
+                "id": 1
+            }
+        ],
+        "ts": "1477546928.000271"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "<https:\/\/jeffknupp.com\/blog\/2014\/06\/18\/improve-your-python-python-classes-and-object-oriented-programming\/>",
+        "ts": "1477546943.000273"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "The first one is pretty basic",
+        "ts": "1477546952.000274"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "the second one is also good, but gets complicated towards the end",
+        "ts": "1477546968.000275"
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "if you are interested in ethereum in more depth, the cryptocurrency decal course is doing an intro tomorrow. \n4-5pm and 7-8pm, in Soda Hall 310\n<https:\/\/bitcoin.berkeley.edu\/decal>",
+        "ts": "1476810447.000143",
+        "reactions": [
+            {
+                "name": "bitcoin",
+                "users": [
+                    "U1V17D2K1",
+                    "U1V1LB2DQ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "^ lots of good resources there if you\u2019re interested in this stuff broadly",
+        "ts": "1476810498.000144"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<!channel> please DM me if there are topics related to bitcoin\/cryptocurrency\/blockchain you would like to review or discuss at the lab tomorrow",
+        "ts": "1476822413.000145"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "topics so far: wtf is the blockchain, so we\u2019ll definitely cover that",
+        "ts": "1476823039.000146"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGBYUA",
+        "text": "<@U1HAU35L1> I still don\u2019t get if the blockchain would replace institutions like the central bank or just be a second venmo\u2026 so if we could talk about that in a bit more clarity that would be great.",
+        "ts": "1476823366.000147"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "interesting",
+        "ts": "1476823380.000148"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "i think the answer is both, kind of",
+        "ts": "1476823401.000149"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGBYUA",
+        "text": "also, why would you give so much money to the miners? it seems to be the only way money is put into the system\u2026 ???",
+        "edited": {
+            "user": "U1UKGBYUA",
+            "ts": "1476823511.000000"
+        },
+        "ts": "1476823402.000150"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGBYUA",
+        "text": "but i think i need to look into how financial markets currently work before I can really understand any answer",
+        "ts": "1476823446.000151"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "i\u2019ll put that at the end, central banks are complicated beasts that serve a variety of functions",
+        "ts": "1476823479.000152"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "i\u2019ll also do my best not to pontificate and push my saltwater keynsian views on you all, but it will be hard for me not to :slightly_smiling_face:",
+        "ts": "1476823507.000153"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGBYUA",
+        "text": "I\u2019m sure quite a few of us did macro, just need to brush up on some of the financial concepts i guess",
+        "ts": "1476823554.000155"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "show us how to be millionaires <@U1HAU35L1>",
+        "ts": "1476823862.000156"
+    },
+    {
+        "type": "message",
+        "user": "U1VPDG7B3",
+        "text": "<@U1HAU35L1>: I'm confused as to how all this money gets generated, for example with Ethereum, and if it is only through miners",
+        "ts": "1476825927.000157"
+    },
+    {
+        "type": "message",
+        "user": "U22E62NUW",
+        "text": "<@U1HAU35L1> I'm not sure about the significance of the year that Doug kept mentioning that it would end by then",
+        "ts": "1476826010.000158"
+    },
+    {
+        "type": "message",
+        "user": "U1X9JL550",
+        "text": "there is a guest speaker in SDR class talking about blockchain..\nif anyone is interested.",
+        "ts": "1476830647.000159"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGBYUA",
+        "text": "SDR is sadly unbearable",
+        "ts": "1476838833.000160",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1HAU35L1",
+                    "U1V24FB98",
+                    "U1UK5SHLP"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

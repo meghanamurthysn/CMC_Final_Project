@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "I found this discussion humorous: <http:\/\/stackoverflow.com\/questions\/462741\/space-before-closing-slash> I hadn't realized the space in a self-closing tag was such an issue...",
+        "attachments": [
+            {
+                "title": "Space Before Closing Slash?",
+                "title_link": "http:\/\/stackoverflow.com\/questions\/462741\/space-before-closing-slash",
+                "text": "I've frequently seen a space preceding the closing slash in XML and HTML tags. The XHTML line break is probably the canonical example:&lt;br \/&gt; instead of:&lt;br\/&gt; The space seems super...",
+                "fallback": "Space Before Closing Slash?",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded&a",
+                "from_url": "http:\/\/stackoverflow.com\/questions\/462741\/space-before-closing-slash",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ],
+        "ts": "1477793036.000358"
+    }
+]

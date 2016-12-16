@@ -1,0 +1,141 @@
+[
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "Something <@U1HAU35L1> was talking about",
+        "ts": "1472743147.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "<http:\/\/programmers.stackexchange.com\/questions\/125587\/what-are-the-difference-between-an-edge-case-a-corner-case-a-base-case-and-a-b>",
+        "attachments": [
+            {
+                "title": "What are the difference between an edge case, a corner case, a base case and a boundary case?",
+                "title_link": "http:\/\/programmers.stackexchange.com\/questions\/125587\/what-are-the-difference-between-an-edge-case-a-corner-case-a-base-case-and-a-b",
+                "text": "I'm not a native English speaker. In my native language I'm aware of some terms used to refer to the condition checked to stop a recursion, and to the condition checked for extreme, unlikely or super-",
+                "fallback": "What are the difference between an edge case, a corner case, a base case and a boundary case?",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/programmers\/img\/apple-touch-icon@2.png?v=8a6d048f3c78&a",
+                "from_url": "http:\/\/programmers.stackexchange.com\/questions\/125587\/what-are-the-difference-between-an-edge-case-a-corner-case-a-base-case-and-a-b",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "http:\/\/cdn.sstatic.net\/Sites\/programmers\/img\/favicon.ico?v=28d2686ad0b9",
+                "service_name": "programmers.stackexchange.com",
+                "id": 1
+            }
+        ],
+        "ts": "1472743151.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "Something that will help for today's lecture",
+        "ts": "1472746478.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "<http:\/\/visualgo.net>",
+        "ts": "1472746479.000006"
+    },
+    {
+        "user": "U1UJVKLUC",
+        "text": "<@U1UJVKLUC|abhisheksinha> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472746886.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<http:\/\/www.dangermouse.net\/esoteric\/>",
+        "ts": "1472750087.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "here are some other sorting algorithms",
+        "ts": "1472750092.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "my personal favorite is Demon Sort - a sorting algorithm that violates the second law of thermodynamics.",
+        "ts": "1472750119.000010",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1V1LB2DQ",
+                    "U1V17D2K1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "\u2026i did not know he was about to start talking about this",
+        "ts": "1472750190.000011",
+        "reactions": [
+            {
+                "name": "crystal_ball",
+                "users": [
+                    "U1VPDG7B3",
+                    "U1UKGBYUA",
+                    "U1X7PMGAZ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U1UK5NK4P",
+        "text": "<@U1UK5NK4P|andy> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472751237.000012"
+    },
+    {
+        "user": "U1UJZNR6C",
+        "text": "<@U1UJZNR6C|ganesh.v> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472753644.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGET0A",
+        "text": "<@U1HAU35L1> cool! I wonder if Petrovich can evolve into something great over time..",
+        "ts": "1472755251.000014"
+    },
+    {
+        "user": "U1UHK6BH9",
+        "text": "<@U1UHK6BH9|astika> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472762368.000015"
+    },
+    {
+        "user": "U1Z9AU3EG",
+        "text": "<@U1Z9AU3EG|uraza> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472781147.000016"
+    },
+    {
+        "user": "U1VTAUH8C",
+        "text": "<@U1VTAUH8C|suchi> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472794079.000017"
+    },
+    {
+        "user": "U1UKGBYQ2",
+        "text": "<@U1UKGBYQ2|kinshuk> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472798768.000018"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "type": "message",
+        "user": "U1VPDG7B3",
+        "text": "Anyone know why if I do reverse = map(reversed, list_nums) and then list(reverse) I still don't get the actual values but the object type?",
+        "ts": "1478323209.000536"
+    },
+    {
+        "type": "message",
+        "user": "U1VPDG7B3",
+        "text": "Even if I just run the code from lab 10",
+        "ts": "1478323220.000537"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "my fault, i meant to come back to that. we got to the point in lab where you get the list of reversed objects:\n```squared_strings_reversed = map(reversed, squared_strings)\n&gt;&gt;&gt; list(squared_strings_reversed)\n&gt;&gt;&gt; [&lt;reversed object at 0x10fb0a390&gt;, &lt;reversed object at 0x10fb0a400&gt;, &lt;reversed object at 0x10fb0a470&gt;, &lt;reversed object at 0x10fb0a4e0&gt;, &lt;reversed object at 0x10fb0a550&gt;]```\nbut we couldn\u2019t figure out on the fly how to materialize the `reversed object` into a string. turns out, you can\u2019t just cast (or map) it as `str`, instead you have to use a little python trick called empty-string join: `\u2019\u2019.join()` which joins all of the objects in an iterator together into a string",
+        "ts": "1478326280.000538"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "a simple example of how it works is:\n```&gt;&gt;&gt; ''.join(['a', 'b', 'c'])\n\u2018abc\u2019```",
+        "ts": "1478326367.000539"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "to do this functionally, instead of just mapping `reversed` to the list of strings, we\u2019ll use a lambda to combine `reversed` with `\u2019\u2019.join()`:\n```\nsquared_strings_reversed = map(lambda x: ''.join(reversed(x)), squared_strings)\n```",
+        "ts": "1478326443.000540"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "so that whole bit of code looks like this:\n```&gt;&gt;&gt; squared_nums = map(lambda x: x * x, range(1, 6))\n&gt;&gt;&gt; squared_strings = map(str, squared_nums)\n&gt;&gt;&gt; squared_strings_reversed = map(lambda x: ''.join(reversed(x)), squared_strings)\n&gt;&gt;&gt; squared_strings_reversed\n&lt;map object at 0x10fb0a668&gt;\n&gt;&gt;&gt; list(squared_strings_reversed)\n['1', '4', '9', '61', \u201852\u2019]```",
+        "ts": "1478326497.000541"
+    },
+    {
+        "type": "message",
+        "user": "U1VPDG7B3",
+        "text": "Thank you <@U1HAU35L1> !!!",
+        "ts": "1478326582.000542"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "p.s., `reversed` doesnt work on integer types, so you can\u2019t skip the step where you map to `str`",
+        "ts": "1478326856.000543"
+    }
+]

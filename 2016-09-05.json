@@ -1,0 +1,85 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1VPDG7B3|lucia> uploaded a file: <https:\/\/ucbischool.slack.com\/files\/lucia\/F28DRD4EM\/screen_shot_2016-09-05_at_2.52.05_pm.png|Screen Shot 2016-09-05 at 2.52.05 PM.png> and commented: My homework uploader appears in UTC time. Does everyone see the same thing? Is there a way to change that?",
+        "file": {
+            "id": "F28DRD4EM",
+            "created": 1473112493,
+            "timestamp": 1473112493,
+            "name": "Screen Shot 2016-09-05 at 2.52.05 PM.png",
+            "title": "Screen Shot 2016-09-05 at 2.52.05 PM.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1VPDG7B3",
+            "editable": false,
+            "size": 61132,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F28DRD4EM\/screen_shot_2016-09-05_at_2.52.05_pm.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F28DRD4EM\/download\/screen_shot_2016-09-05_at_2.52.05_pm.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F28DRD4EM-6e16f58153\/screen_shot_2016-09-05_at_2.52.05_pm_64.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F28DRD4EM-6e16f58153\/screen_shot_2016-09-05_at_2.52.05_pm_80.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F28DRD4EM-6e16f58153\/screen_shot_2016-09-05_at_2.52.05_pm_360.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360_w": 360,
+            "thumb_360_h": 167,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F28DRD4EM-6e16f58153\/screen_shot_2016-09-05_at_2.52.05_pm_480.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_480_w": 480,
+            "thumb_480_h": 223,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F28DRD4EM-6e16f58153\/screen_shot_2016-09-05_at_2.52.05_pm_160.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F28DRD4EM-6e16f58153\/screen_shot_2016-09-05_at_2.52.05_pm_720.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_720_w": 720,
+            "thumb_720_h": 334,
+            "image_exif_rotation": 1,
+            "original_w": 907,
+            "original_h": 421,
+            "permalink": "https:\/\/ucbischool.slack.com\/files\/lucia\/F28DRD4EM\/screen_shot_2016-09-05_at_2.52.05_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T0WA5NWKG-F28DRD4EM-649f605f36",
+            "channels": [
+                "C1UJZTSQ0"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc28DQHU3Z",
+                "created": 1473112493,
+                "timestamp": 1473112493,
+                "user": "U1VPDG7B3",
+                "is_intro": true,
+                "comment": "My homework uploader appears in UTC time. Does everyone see the same thing? Is there a way to change that?",
+                "channel": ""
+            }
+        },
+        "user": "U1VPDG7B3",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1VPDG7B3|lucia>",
+        "bot_id": null,
+        "ts": "1473112495.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "nope thats just the time on the server",
+        "ts": "1473115277.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1VPDG7B3",
+        "text": "Ah ok, thanks!",
+        "ts": "1473124774.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<http:\/\/infiniteundo.com\/post\/25509354022\/more-falsehoods-programmers-believe-about-time>",
+        "ts": "1473124906.000006"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1UK5SHLP",
+        "text": "<@U1UK5SHLP|oh_robin> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475265337.000083"
+    },
+    {
+        "user": "U1UK5SHLP",
+        "text": "<@U1UK5SHLP|oh_robin> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1475277573.000084"
+    }
+]

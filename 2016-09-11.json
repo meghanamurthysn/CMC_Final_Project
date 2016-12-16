@@ -1,0 +1,38 @@
+[
+    {
+        "type": "message",
+        "user": "U1UKGET0A",
+        "text": "is it unprofessional to use references to the ASCII in a code (since it's not very readable)?",
+        "ts": "1473581115.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "There's always alternatives to ASCII in established languages like Java, Python etc.",
+        "ts": "1473581371.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "you can use ASCII codes if absolutely necessary, but in practice, there are always plenty of alternatives",
+        "ts": "1473581404.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1UKBNCC9",
+        "text": "I almost forgot to answer this question in my txt file and thought it might help to remind others too (JUST in case) - \"What is the relationship between this number and the size of the list?\u201d :slightly_smiling_face:",
+        "ts": "1473645064.000009",
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U1Z9AU3EG",
+                    "U1V307X4Z",
+                    "U1VPDG7B3",
+                    "U1V17D2K1"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

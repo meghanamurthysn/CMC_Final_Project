@@ -1,0 +1,29 @@
+[
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "<https:\/\/www.incapsula.com\/blog\/malware-analysis-mirai-ddos-botnet.html>",
+        "ts": "1477090022.000254"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "I shared this in noise as well but just in case anyone is interested in DDoS by IoT",
+        "ts": "1477090055.000255",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1UK61FK7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "That would be a fun HW... create a DDoS IoT botnet.",
+        "ts": "1477116142.000256"
+    }
+]

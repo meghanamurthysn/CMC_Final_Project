@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "```&gt;&gt;&gt; def gabe():\n...     my_list = ['Keshav is cool', 'Paul is cool', 'Doug is cool']\n...     for cool in my_list:\n...         yield cool\n...\n&gt;&gt;&gt; generator = gabe()\n&gt;&gt;&gt; generator.__next__()\n'Keshav is cool'\n&gt;&gt;&gt; generator.__next__()\n'Paul is cool'\n&gt;&gt;&gt; generator.__next__()\n'Doug is cool'\n&gt;&gt;&gt; generator.__next__()\nTraceback (most recent call last):\n  File \"&lt;stdin&gt;\", line 1, in &lt;module&gt;\nStopIteration```",
+        "ts": "1478802537.000024",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1UKBNCC9",
+                    "U1VBEAWE4",
+                    "U1V8U19T6",
+                    "U1V17D2K1",
+                    "U1UK61FK7"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "note that it is very rare to actually call `__next__()` and thus receive that error.",
+        "ts": "1478802761.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "mostly you would access generators in a for loop",
+        "ts": "1478803157.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "<http:\/\/intermediatepythonista.com\/python-generators>",
+        "attachments": [
+            {
+                "service_name": "intermediate pythonista on Svbtle",
+                "title": "Introduction to Python Generators",
+                "title_link": "http:\/\/intermediatepythonista.com\/python-generators",
+                "text": "Generators are a very fascinating concept in python; generators have a wide range of applications from simple lazy evaluation to mind-blowing advanced concurrent execution of tasks (see David Beazley). Before we dive into the fascinating world of... | intermediate pythonista | Problem solver by birth. Software engineer and Computer scientist by training.",
+                "fallback": "intermediate pythonista on Svbtle: Introduction to Python Generators",
+                "thumb_url": "https:\/\/d2l2xugcou6irs.cloudfront.net\/svbtle_logo.png",
+                "from_url": "http:\/\/intermediatepythonista.com\/python-generators",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/d1yg14i6wd46hx.cloudfront.net\/assets\/favicon-5ed3591b57f6a4f0d5cb82c6680b33bb1058fe757c71ccb094952824e7e00b17.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1478803900.000027"
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "<@U1HAU35L1> <@U1UJXHWB0> For last step of part 2 on HW10, the idea is to compare every user's business list with every other user's business list (if I understood correctly). That appears to to be O(n^2) and takes a while. Is that ok or there's a better way?",
+        "ts": "1478981346.000059"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "using two for loops is definitely one solution... there are ways of optimizing for loops... or there are other ways to do the same thing... any way is fine... but try to optimize it as much as possible...",
+        "ts": "1478981518.000060"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "also, for loops can be optimized to get answers under a minute",
+        "ts": "1478981573.000061"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "thanks",
+        "ts": "1478981693.000062"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "<@U1HAU35L1> <@U1UJXHWB0> When I try to use a mapper to extract user_id and list of words used for a user_id in a review, why would it throw BrokenPipe Error 32?",
+        "ts": "1478990570.000064"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "that\u2019s a unix error typically\u2026what command did you use to run it?",
+        "ts": "1478990614.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "nothing special i believe",
+        "ts": "1478990721.000067"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "sorry i meant from the command line",
+        "ts": "1478990763.000068"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "how are you executing the script",
+        "ts": "1478990777.000069"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "yes",
+        "ts": "1478990795.000070"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "it starts printing stuff correctly and before it completes the whole list, it throws error",
+        "ts": "1478990824.000072"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "tough to diagnose that remotely\u2026i\u2019d try to set up more print statements to see if there\u2019s something specific to the record it\u2019s failing on",
+        "ts": "1478990920.000075"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "ok",
+        "ts": "1478990936.000076"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "if it were just failing on startup i\u2019d say it was probably a problem with the way you were executing the script",
+        "ts": "1478990965.000077"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "piping is a concept in unix very similar to generators in python where the entire input is not read into memory at runtime but rather each record is read from a file and then \u201cpiped\u201d through a series of commands to an output",
+        "ts": "1478991012.000078"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "mr job makes use of that because when your data is \u201cbig data\u201d you can\u2019t read the whole thing into memory",
+        "ts": "1478991028.000079"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "actually i just checked and it's the last record in the json file",
+        "ts": "1478991034.000080"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "i mean it did print till the end",
+        "ts": "1478991046.000081"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "oh interesting",
+        "ts": "1478991061.000082"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "mrjob error log doesn't make it easy to pinpoint where exactly the error is coming from",
+        "ts": "1478991111.000083"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "have you only written the mapper and not the reducer?",
+        "ts": "1478991188.000084"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "again, knowing very little about your code, my gut is telling me that it\u2019s getting through the map step and then it doesnt have anything to do so it\u2019s just failing\u2026so you\u2019d either have to take a stab at the reducer or remove that from the `steps` variable",
+        "ts": "1478991246.000085"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "(which you can modify during development, but should go back to looking like it does in the template by the time you submit, right <@U1UJXHWB0>?)",
+        "ts": "1478991287.000086"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "anyway, i\u2019m going to step back from this question at this point, because I don\u2019t want to say anything that conflicts with keshav\u2019s preferences, but that\u2019s my instinct",
+        "ts": "1478991332.000087"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "i have a reducer step with just a pass statement which is not doing anything but does take up the arguments from this mapper",
+        "ts": "1478992258.000088"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "also a general question about the step i have is how the steps are broken down in to parts? i couldn't find good explanation online.. a single step statement can contain several mappers\/reducers so why break them down into several statements?",
+        "ts": "1478992346.000089"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "Yes paul is right in terms of removing steps and debugging",
+        "ts": "1479004552.000091"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "your final program should again be in the format that was provided earlier",
+        "ts": "1479004581.000092"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "As far as I know, a single step cannot take multiple mappers and reducers",
+        "ts": "1479004628.000093"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "Thanks. I was able to get rid of the broken pipe error.. now i'm getting OS Error 22 at the last step",
+        "ts": "1479004639.000094"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "if youre referring to the _init() and _final() methods, they are not exactly mappers and reducers but rather pre and post scripts that go along with mappers and reducers",
+        "ts": "1479004722.000095"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "These are steps introduced to be used when theres additional things that you need to do between mappers and reducers",
+        "ts": "1479004760.000096"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "ok",
+        "ts": "1479004771.000097"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "what does the error say?",
+        "ts": "1479004809.000098"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "OSError: [Errno 22] Invalid argument",
+        "ts": "1479004883.000099"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "It happens at the last reducer",
+        "ts": "1479004899.000100"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "where we have to calculate Jaccard's",
+        "ts": "1479004918.000101"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "it would be hard to debug without seeing the code... maybe if you can send it over to me I can take a look..",
+        "ts": "1479004995.000102"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "ok",
+        "ts": "1479005000.000103"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "not here though :stuck_out_tongue:",
+        "ts": "1479005004.000104"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "yup :slightly_smiling_face:",
+        "ts": "1479005068.000105"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "I get that error when I try sending too much data as output from a mapper... how much is too much? dunno... but seems to be a limit... might be a windows issue too",
+        "ts": "1479007144.000106"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "I think it is specific to windows because the same code doesnt seem to throw the same error in mac",
+        "ts": "1479007303.000107"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "so if I ran it from Anaconda it wouldn't matter because it's using the same python exe?",
+        "ts": "1479007393.000108"
+    }
+]

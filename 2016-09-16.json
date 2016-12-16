@@ -1,0 +1,70 @@
+[
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "question for the room... did you submit test.py (specified in the assignment) or hw3test.py (named as such in the starter pack)? I don't want <@U1UJXHWB0> to yell at us again.",
+        "ts": "1474077073.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "follow the assignment, but i\u2019ll be on the lookout for anything named hw3test.py, since it\u2019s ambiguous which to do",
+        "ts": "1474077144.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "Thanks. I submitted both.",
+        "ts": "1474077198.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "It'll test my program double as much.",
+        "ts": "1474077223.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": ":thumbsup:",
+        "ts": "1474077263.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "I wasn't yelling lol... I was saving myself from being yelled at... :stuck_out_tongue: <@U1V1LB2DQ>",
+        "ts": "1474077366.000007",
+        "reactions": [
+            {
+                "name": "joy_cat",
+                "users": [
+                    "U22E62NUW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "Man... I'd hate to see you when you're angry then... :wink: Just kidding - it's all good, just want to save you guys the extra work (although I should probably waited till my grade is posted to make fun)",
+        "ts": "1474077458.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<https:\/\/cdn.meme.am\/instances\/500x\/57592799.jpg>",
+        "attachments": [
+            {
+                "fallback": "500x681px image",
+                "image_url": "https:\/\/cdn.meme.am\/instances\/500x\/57592799.jpg",
+                "image_width": 500,
+                "image_height": 681,
+                "image_bytes": 262044,
+                "from_url": "https:\/\/cdn.meme.am\/instances\/500x\/57592799.jpg",
+                "id": 1
+            }
+        ],
+        "ts": "1474080068.000009"
+    }
+]

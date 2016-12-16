@@ -1,0 +1,47 @@
+[
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "for folks not in <#C1UJZTXB2|python>, <https:\/\/twitter.com\/raymondh\/status\/773978885092323328>",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/raymondh|@raymondh>: #python3.6 news:  OrderedDict is dead. Long live dicts that are ordered.\nRegular dicts are ordered and more compact: <http:\/\/bugs.python.org\/issue27350>",
+                "ts": 1473365920,
+                "author_name": "Raymond Hettinger",
+                "author_link": "https:\/\/twitter.com\/raymondh\/status\/773978885092323328",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/73450913\/IMG_0202_normal.jpg",
+                "author_subname": "@raymondh",
+                "text": "#python3.6 news:  OrderedDict is dead. Long live dicts that are ordered.\nRegular dicts are ordered and more compact: <http:\/\/bugs.python.org\/issue27350>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/raymondh\/status\/773978885092323328",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "ts": "1473386339.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1Z9AU3EG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "(btw don\u2019t upgrade to 3.6 and use this for assignments)",
+        "ts": "1473386393.000006"
+    },
+    {
+        "user": "U1UK5RPHD",
+        "text": "<@U1UK5RPHD|neeragrover> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1473399298.000007"
+    }
+]

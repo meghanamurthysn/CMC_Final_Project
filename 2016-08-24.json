@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1UKGBZ42",
+        "text": "<@U1UKGBZ42|carlos> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472079832.000002"
+    },
+    {
+        "user": "U1WB4PWQJ",
+        "text": "<@U1WB4PWQJ|sana> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472094531.000003"
+    },
+    {
+        "user": "U1WB4PWQJ",
+        "text": "<@U1WB4PWQJ|sana> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472094545.000004"
+    }
+]

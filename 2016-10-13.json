@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "<@U1UKGET0A> download it from the mit website (link given in homework description)",
+        "ts": "1476342147.000126"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGET0A",
+        "text": "thanks, I was already pointed to it!",
+        "ts": "1476342170.000127"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": ":+1:",
+        "ts": "1476342181.000128"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<http:\/\/www.righto.com\/2014\/09\/mining-bitcoin-with-pencil-and-paper.html>",
+        "attachments": [
+            {
+                "title": "Mining Bitcoin with pencil and paper: 0.67 hashes per day",
+                "title_link": "http:\/\/www.righto.com\/2014\/09\/mining-bitcoin-with-pencil-and-paper.html",
+                "text": "This article is now available in Russian: \u041c\u0430\u0439\u043d\u0438\u043c Bitcoin \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0431\u0443\u043c\u0430\u0433\u0438 \u0438 \u0440\u0443\u0447\u043a\u0438 . I decided to see how practical it would be to mine Bit...",
+                "fallback": "Mining Bitcoin with pencil and paper: 0.67 hashes per day",
+                "image_url": "https:\/\/lh5.googleusercontent.com\/-ZlySzt0yUA4\/Uwgj0uEaIxI\/AAAAAAAAWkM\/xDazaTmKQgA\/w1200-h630-p-nu\/block-diagram-ghash.png",
+                "from_url": "http:\/\/www.righto.com\/2014\/09\/mining-bitcoin-with-pencil-and-paper.html",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 16976,
+                "service_icon": "http:\/\/www.righto.com\/favicon.ico",
+                "service_name": "righto.com",
+                "id": 1
+            }
+        ],
+        "ts": "1476380577.000129"
+    }
+]

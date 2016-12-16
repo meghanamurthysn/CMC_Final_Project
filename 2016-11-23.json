@@ -1,0 +1,39 @@
+[
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<https:\/\/twitter.com\/drewconway\/status\/801431817807155200>",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/drewconway|@drewconway>: Shame on you professor, for marking this wrong <https:\/\/pbs.twimg.com\/media\/Cx9B_P5XUAEper5.jpg>",
+                "ts": 1479911209,
+                "author_name": "Drew Conway",
+                "author_link": "https:\/\/twitter.com\/drewconway\/status\/801431817807155200",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/789251981613432832\/HvSF84ge_normal.jpg",
+                "author_subname": "@drewconway",
+                "text": "Shame on you professor, for marking this wrong <https:\/\/pbs.twimg.com\/media\/Cx9B_P5XUAEper5.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/drewconway\/status\/801431817807155200",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/Cx9B_P5XUAEper5.jpg",
+                "image_width": 972,
+                "image_height": 1024,
+                "image_bytes": 59714,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "ts": "1479924275.000019",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1V17D2K1",
+                    "U1UK61FK7"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

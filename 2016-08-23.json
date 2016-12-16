@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1UKBMYAD",
+        "text": "<@U1UKBMYAD|rohitbahirwani> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1471974961.000002"
+    }
+]

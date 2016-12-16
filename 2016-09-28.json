@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U1UJZRM40",
+        "text": "<@U1UJZRM40|puneet> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1475075913.000068"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "Hey y'all my bus is late so I'm not gonna be there at 12 on the dot but please help each other out with getting beautiful soup installed",
+        "ts": "1475088408.000069",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U1V1LB2DQ",
+                    "U22E62NUW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "<https:\/\/www.youtube.com\/watch?v=hDG73IAO5M8>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Alice in Wonderland - Mock Turtle sings Beautiful soup",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=hDG73IAO5M8",
+                "author_name": "theBaseT",
+                "author_link": "https:\/\/www.youtube.com\/user\/theBaseT",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/hDG73IAO5M8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Alice in Wonderland - Mock Turtle sings Beautiful soup",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/hDG73IAO5M8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=hDG73IAO5M8",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1475105247.000070",
+        "reactions": [
+            {
+                "name": "partyparrot",
+                "users": [
+                    "U1V17D2K1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

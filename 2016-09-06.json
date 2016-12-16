@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1V39HLS1",
+        "text": "<@U1V39HLS1|jolly.liang> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473215905.000002"
+    },
+    {
+        "user": "U1UKBMTH7",
+        "text": "<@U1UKBMTH7|rena> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1473230617.000003"
+    }
+]

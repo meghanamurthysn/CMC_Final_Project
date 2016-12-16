@@ -1,0 +1,109 @@
+[
+    {
+        "type": "message",
+        "user": "U1UKGET0A",
+        "text": "could you please remind me why we don't have a class tomorrow?..",
+        "ts": "1475557292.000087"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "to commemorate the 85th anniversary of the first dick tracy comic",
+        "ts": "1475557596.000088"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "(i don\u2019t know, i think doug has a conflict)",
+        "ts": "1475557612.000089"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGET0A",
+        "text": ")) it's good to know that I'm not missing a holiday)",
+        "ts": "1475557770.000090"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "it is rosh hashanah until sundown tomorrow",
+        "ts": "1475557839.000091"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "but i dont know if thats the reason",
+        "ts": "1475557851.000092"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGET0A",
+        "text": "that one I observe. shana tova",
+        "ts": "1475557878.000093",
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U1HAU35L1",
+                    "U1V17D2K1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "(shana tova all!)",
+        "ts": "1475557880.000094",
+        "reactions": [
+            {
+                "name": "honey_pot",
+                "users": [
+                    "U1UKGET0A",
+                    "U1V17D2K1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1V24FB98",
+        "text": "It\u2019s always 5777 somewhere :six_pointed_star:",
+        "ts": "1475558597.000095"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<https:\/\/hughewilliams.com\/2012\/10\/01\/five-myths-about-hash-tables\/>",
+        "attachments": [
+            {
+                "service_name": "Hugh E. Williams",
+                "service_url": "http:\/\/hughewilliams.com",
+                "title": "Five Myths about Hash\u00a0Tables",
+                "title_link": "https:\/\/hughewilliams.com\/2012\/10\/01\/five-myths-about-hash-tables\/",
+                "author_name": "Hugh E. Williams",
+                "author_link": "https:\/\/hughewilliams.com\/author\/kroidkrensen\/",
+                "thumb_url": "https:\/\/i2.wp.com\/hughewilliams.files.wordpress.com\/2012\/09\/450px-hash_table_5_0_1_1_1_1_1_ll-svg.png?fit=200%2C150",
+                "thumb_width": 200,
+                "thumb_height": 138,
+                "text": "A hash table is data structure that is used to search for exact matches to a search key. For searching, they work like this:\nTake a search key (example: the word &ldquo;cat&rdquo;)\nHash the search key: pass the key to a function that returns an integer value (example: the hash function returns 47 when the input key is &ldquo;cat&rdquo;)\nUse the integer value to inspect a slot to see if it contains the search key (example: look in an array at element 47)\nIf the key matches, great, you&rsquo;ve found what you&rsquo;re looking for and you can retrieve whatever metadata you&rsquo;re looking for (example: in array element 47, we&rsquo;re found the word &ldquo;cat&rdquo;. We retrieve metadata that tells us &ldquo;cat&rdquo; is an &ldquo;animal&rdquo;)\nIf the key doesn&rsquo;t match and the slot contains something besides the key, carry out a secondary search process to make sure the search key really isn&rsquo;t stored in the hash table; the secondary search process varies depending on the type of hashing algorithm used (example: in array element 47, we found the word &ldquo;dog&rdquo;. So, let&rsquo;s look in slot 48 and see if &ldquo;cat&rdquo; is there. Slot 48 is empty, so &ldquo;cat&rdquo; isn&rsquo;t in the hash table. This is called linear probing, it&rsquo;s one kind of secondary search)\nI had a minor obsession with hash tables for ten years.\nThe worst case is terrible\nEngineers irrationally avoid hash tables because of the worst-case O(n) search time. In practice, that means they&rsquo;re worried that everything they search for will hash to the same value; for example, imagine hashing every word in the English dictionary, and the hash function always returning 47.&nbsp;Put differently, if the hash function doesn&rsquo;t do a good job of randomly distributing search keys throughout the hash table, the searching will become scanning instead.\nThis doesn&rsquo;t happen in practice. At least, it won&rsquo;t happen if you make a reasonable attempt to design a hash function using some knowledge of the search keys. Indeed, hashing is usually in the average case much closer to O(1). In practice, that means almost always you&rsquo;ll find what you&rsquo;re looking for on the first search attempt (and you will do very little secondary searching).\nHash tables become full, and bad things happen\nThe story goes like this: you&rsquo;ve created a hash table with one million slots. Let&rsquo;s say it&rsquo;s an array. What happens when you try and insert the 1,000,001st item? Bad things: your hash function points you to a slot, it&rsquo;s full, so you look in another slot, it&rsquo;s full, and this never ends &mdash; you&rsquo;re stuck in an infinite loop. The function never returns, CPU goes through the roof, your server stops responding, and you take down the whole of _LARGE_INTERNET_COMPANY.\nThis shouldn&rsquo;t happen if you&rsquo;ve spent time on design.\nHere&rsquo;s one solve: there&rsquo;s a class of hash tables that deal with becoming full. They work like this: when the table becomes x% full, you create a new hash table that is (say) double the size, and move all the data into the new hash table by rehashing all of the elements that are stored in it. The downside is you have to rehash all the values, which is an O(n) [aka linear, scanning, time consuming] process.\nHere&rsquo;s another solve: instead of storing the metadata in the array, make your array elements pointers to a linked list of nodes that contain the metadata. That way, your hash table can never get full. You search for an element, and then traverse the linked list looking for a match; traversing the linked list is your secondary hash function. Here&rsquo;s a diagram that shows a so-called chained hash table:\nA chained hash table, showing &ldquo;John Smith&rdquo; and &ldquo;Sandra Dee&rdquo; both in slot 152 of the hash table. You can see that they&rsquo;re chained together in a linked list. Taken from Wikipedia, \nChained hash tables are a very good idea. Problem solved.\nBy the way, I recommend you create a hash table that&rsquo;s about twice the size of the number of elements you expect to put into the table. So, suppose you&rsquo;re planning on putting one million items in the table, go ahead and create a table with two million slots.\nTrees are better\nIn general, trees aren&rsquo;t faster for searching for exact matches. They&rsquo;re slower, and here&rsquo;s peer-reviewed evidence that compares B-trees, splay trees, and hashing for a variety of string types. So, why use a tree at all? Trees are good for inexact matches &mdash; say finding all names that begin with &ldquo;B&rdquo; &mdash; and that&rsquo;s a task that hash tables can&rsquo;t do.\nHash functions are slow\nI&rsquo;ve just pointed you to research that shows that must not be true. But there is something to watch out for: don&rsquo;t use the traditional modulo based hash function you&rsquo;ll find in your algorithms text book; for example, here&rsquo;s Sedgewick&rsquo;s version, note the &ldquo;% M&rdquo; modulo operation that&rsquo;s performed once per character in the input string. The modulo is used to ensure that the hash value falls within the size of the hash table &mdash; for example, if we have 100 slots and the hash function returns 147, the modulo turns that into 47. Instead, do the modulo once, just before you return from the hash function.\nHere&rsquo;s the hash function I used in much of my research on hashing. You can download the code here.\nA very fast hash function written in C. This uses bit shifts, and a single modulo at the end of the function. If you find a faster one, would love to hear about it.\nHash tables use too much memory\nAgain, not true. The same peer-reviewed evidence shows that a hash table uses about the same memory as an efficiently implemented tree structure. Remember that if you&rsquo;re creating an array for a chained hash table, you&rsquo;re just creating an array of pointers &mdash; you don&rsquo;t really start using significant space until you&rsquo;re inserting nodes into the linked lists that are chained from the hash table (and those nodes typically take less space than nodes in a tree, since they only have one pointer).\nOne Small Trick\nIf you want your hash tables to really fly for searching, move any node that matches your search to the front of the chained list that it&rsquo;s in. Here&rsquo;s more peer-reviewed evidence that shows this works great.\nAlright. Viva Hash Tables! See you next time.",
+                "fallback": "Hugh E. Williams Link: Five Myths about Hash&nbsp;Tables",
+                "from_url": "https:\/\/hughewilliams.com\/2012\/10\/01\/five-myths-about-hash-tables\/",
+                "service_icon": "https:\/\/s0.wp.com\/i\/webclip.png",
+                "id": 1
+            }
+        ],
+        "ts": "1475561658.000096",
+        "reactions": [
+            {
+                "name": "cool",
+                "users": [
+                    "U1UKGET0A"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

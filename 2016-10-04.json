@@ -1,0 +1,137 @@
+[
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<@U1UKGET0A> i\u2019ve just learned it is in fact national taco day. cant imagine why that wasnt on the ap planner.",
+        "ts": "1475607528.000098"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1UJXHWB0|keshavp> uploaded a file: <https:\/\/ucbischool.slack.com\/files\/keshavp\/F2K7MDK6X\/screen_shot_2016-10-04_at_12.08.28_pm.png|Holidays Today>",
+        "file": {
+            "id": "F2K7MDK6X",
+            "created": 1475608153,
+            "timestamp": 1475608153,
+            "name": "Screen Shot 2016-10-04 at 12.08.28 PM.png",
+            "title": "Holidays Today",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1UJXHWB0",
+            "editable": false,
+            "size": 150204,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F2K7MDK6X\/screen_shot_2016-10-04_at_12.08.28_pm.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F2K7MDK6X\/download\/screen_shot_2016-10-04_at_12.08.28_pm.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2K7MDK6X-d74ed32560\/screen_shot_2016-10-04_at_12.08.28_pm_64.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2K7MDK6X-d74ed32560\/screen_shot_2016-10-04_at_12.08.28_pm_80.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2K7MDK6X-d74ed32560\/screen_shot_2016-10-04_at_12.08.28_pm_360.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360_w": 360,
+            "thumb_360_h": 219,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2K7MDK6X-d74ed32560\/screen_shot_2016-10-04_at_12.08.28_pm_480.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_480_w": 480,
+            "thumb_480_h": 292,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2K7MDK6X-d74ed32560\/screen_shot_2016-10-04_at_12.08.28_pm_160.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2K7MDK6X-d74ed32560\/screen_shot_2016-10-04_at_12.08.28_pm_720.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_720_w": 720,
+            "thumb_720_h": 438,
+            "image_exif_rotation": 1,
+            "original_w": 838,
+            "original_h": 510,
+            "permalink": "https:\/\/ucbischool.slack.com\/files\/keshavp\/F2K7MDK6X\/screen_shot_2016-10-04_at_12.08.28_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T0WA5NWKG-F2K7MDK6X-a8717a342e",
+            "channels": [
+                "C1UJZTSQ0"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1UJXHWB0",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1UJXHWB0|keshavp>",
+        "bot_id": null,
+        "ts": "1475608155.000099"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "what is eDay",
+        "ts": "1475608251.000100"
+    },
+    {
+        "type": "message",
+        "user": "U1U4ZMFEK",
+        "text": "today's_holiday_list[7] :heart:",
+        "ts": "1475608539.000101"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "what language is that <@U1U4ZMFEK>",
+        "ts": "1475608584.000102"
+    },
+    {
+        "type": "message",
+        "user": "U1U4ZMFEK",
+        "text": "I've already started celebrating <@U1HAU35L1> ",
+        "ts": "1475608763.000103"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "come to the lounge and prove_it()",
+        "ts": "1475608918.000104"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "The type of celebration depends on zero-based indexing...",
+        "ts": "1475608976.000105"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGET0A",
+        "text": "Taco, vodka and animals(puppies) is a good mix!",
+        "ts": "1475615668.000106"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "\/giphy #mashup puppy taco vodka",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/media4.giphy.com\/gifsu\/xT9KVpVj2rIqmTRYmQ\/giphy-overlay.gif>",
+                "image_url": "http:\/\/media4.giphy.com\/gifsu\/xT9KVpVj2rIqmTRYmQ\/giphy-overlay.gif",
+                "image_width": 350,
+                "image_height": 188,
+                "image_bytes": 673885,
+                "is_animated": true,
+                "title": "#mashup puppy taco vodka",
+                "id": 1,
+                "title_link": "http:\/\/media4.giphy.com\/gifsu\/xT9KVpVj2rIqmTRYmQ\/giphy-overlay.gif"
+            }
+        ],
+        "ts": "1475615759.000107"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGBYUA",
+        "text": "this is disturbing",
+        "ts": "1475616452.000108"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": ".\/collapse will make it go away",
+        "ts": "1475616607.000109"
+    }
+]

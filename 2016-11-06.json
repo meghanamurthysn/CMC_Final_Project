@@ -1,0 +1,279 @@
+[
+    {
+        "type": "message",
+        "user": "U1XFC778A",
+        "text": "For part two, does the function have to be one line?",
+        "ts": "1478469289.000573"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "Don't have the assignment in front of me, if it doesn't say that then no",
+        "ts": "1478473226.000575"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "<@U1HAU35L1> upon calling reduce function on nested lists, i cannot get the resulting generator object to print its contents",
+        "ts": "1478492765.000577"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "i've tried list and it says map object not callable",
+        "ts": "1478492778.000578"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "can you slack me a code snippet i can run which will demonstrate the problem please?",
+        "ts": "1478492794.000579"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "hey folks, can you please make a *non-binding* indication of whether you\u2019ll be showing up for office hours tomorrow? I just want to get a sense of numbers. Please click :chicken: if you\u2019re thinking of the 12-1, :poultry_leg: if you\u2019re coming at 5:30-6:30 and :hankey: if you\u2019re going to use the extra half hour we added",
+        "ts": "1478495514.000580",
+        "reactions": [
+            {
+                "name": "chicken",
+                "users": [
+                    "U1HAU35L1",
+                    "U1XFTHHB7",
+                    "U1Z9AU3EG",
+                    "U1UKGET0A"
+                ],
+                "count": 4
+            },
+            {
+                "name": "poultry_leg",
+                "users": [
+                    "U1HAU35L1",
+                    "U1V17D2K1",
+                    "U1V1L270S"
+                ],
+                "count": 3
+            },
+            {
+                "name": "hankey",
+                "users": [
+                    "U1HAU35L1",
+                    "U1XFC778A"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1XFC778A",
+        "text": "Does part 3 have to be completely imperative?",
+        "ts": "1478497734.000581"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "as opposed to? <@U1XFC778A>",
+        "ts": "1478497848.000582"
+    },
+    {
+        "type": "message",
+        "user": "U1XFC778A",
+        "text": "have list comprehensions here and there",
+        "ts": "1478497875.000583"
+    },
+    {
+        "type": "message",
+        "user": "U1XFC778A",
+        "text": "for example",
+        "ts": "1478497880.000584"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "that\u2019s totally ok",
+        "ts": "1478497885.000585"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "you can even use map, filter and reduce if you want",
+        "ts": "1478497895.000586"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "the difference between part 3 and the extra credit is that part 3 does not have the same restrictions on loops, ifs, etc, that the extra credit has",
+        "ts": "1478497932.000587"
+    },
+    {
+        "type": "message",
+        "user": "U1XFC778A",
+        "text": "how would that be different from part 4 then?",
+        "ts": "1478497932.000588"
+    },
+    {
+        "type": "message",
+        "user": "U1XFC778A",
+        "text": "hah",
+        "ts": "1478497939.000589"
+    },
+    {
+        "type": "message",
+        "user": "U1X7PMGAZ",
+        "text": "for the 2nd part, is it ok to have _for_ inside a list comprehension?",
+        "ts": "1478497966.000590"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "the idea is that you build a solution however you want in part 3, then make it functional only for extra credit",
+        "ts": "1478497978.000591"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<@U1X7PMGAZ> if you can write a list comprehension without `for` i\u2019ll be impressed :slightly_smiling_face:",
+        "edited": {
+            "user": "U1HAU35L1",
+            "ts": "1478497997.000000"
+        },
+        "ts": "1478497992.000592"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "<@U1HAU35L1> crushing TA 'extra credit' on a Sunday night....",
+        "ts": "1478498024.000594"
+    },
+    {
+        "type": "message",
+        "user": "U1XFC778A",
+        "text": "thanks :+1: <@U1HAU35L1>",
+        "ts": "1478498050.000595"
+    },
+    {
+        "type": "message",
+        "user": "U1X7PMGAZ",
+        "text": "<@U1HAU35L1> I don't know if I can do that",
+        "ts": "1478498093.000596"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "i think it\u2019s possible, but might require recompiling python",
+        "ts": "1478498145.000597"
+    },
+    {
+        "type": "message",
+        "user": "U1X7PMGAZ",
+        "text": "That answers my question. The 'for' is here to stay.",
+        "ts": "1478498202.000598"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "how long will it be here `for`",
+        "ts": "1478498217.000599"
+    },
+    {
+        "type": "message",
+        "user": "U1X7PMGAZ",
+        "text": "FORever",
+        "ts": "1478498294.000602"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<http:\/\/giphy.com\/gifs\/forever-the-sandlot-hEwkspP1OllJK>",
+        "attachments": [
+            {
+                "service_name": "Giphy",
+                "service_url": "http:\/\/giphy.com\/",
+                "image_url": "http:\/\/media4.giphy.com\/media\/hEwkspP1OllJK\/giphy.gif",
+                "image_width": 225,
+                "image_height": 169,
+                "image_bytes": 498320,
+                "fallback": "giphy: http:\/\/giphy.com\/gifs\/forever-the-sandlot-hEwkspP1OllJK",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/giphy.png",
+                "id": 1
+            }
+        ],
+        "ts": "1478498328.000603",
+        "reactions": [
+            {
+                "name": "baseball",
+                "users": [
+                    "U1V24FB98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1X7PMGAZ",
+        "text": "\/giphy it's here to stay",
+        "bot_id": "B1V01MZ8X",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/downton-abbey-ufzabn0FCl9UQ>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/ufzabn0FCl9UQ\/giphy.gif",
+                "image_width": 245,
+                "image_height": 291,
+                "image_bytes": 1004148,
+                "is_animated": true,
+                "title": "it's here to stay",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/downton-abbey-ufzabn0FCl9UQ"
+            }
+        ],
+        "ts": "1478498354.000605",
+        "reactions": [
+            {
+                "name": "nisha",
+                "users": [
+                    "U1UKGBYUA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<@U1V1LB2DQ> yeah imma go watch westworld now, back for questions in an hour",
+        "ts": "1478498369.000606"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "post them in the meantime and i\u2019ll take a look then",
+        "ts": "1478498386.000607"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U1HAU35L1",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[November 6th, 2016 9:11 PM] paul.glenn: hey folks, can you please make a *non-binding* indication of whether you\u2019ll be showing up for office hours tomorrow? I just want to get a sense of numbers. Please click :chicken: if you\u2019re thinking of the 12-1, :poultry_leg: if you\u2019re coming at 5:30-6:30 and :hankey: if you\u2019re going to use the extra half hour we added",
+                "ts": "1478495514.000580",
+                "author_subname": "paul.glenn",
+                "channel_id": "C1UJZTSQ0",
+                "channel_name": "206",
+                "is_msg_unfurl": true,
+                "text": "hey folks, can you please make a *non-binding* indication of whether you\u2019ll be showing up for office hours tomorrow? I just want to get a sense of numbers. Please click :chicken: if you\u2019re thinking of the 12-1, :poultry_leg: if you\u2019re coming at 5:30-6:30 and :hankey: if you\u2019re going to use the extra half hour we added",
+                "author_name": "Paul Glenn",
+                "author_link": "https:\/\/ucbischool.slack.com\/team\/paul.glenn",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-07-27\/63928608837_66596a56d8583c5c606f_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U1HAU35L1|paul.glenn> pinned a message to this channel.",
+        "ts": "1478501956.000609"
+    }
+]

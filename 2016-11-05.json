@@ -1,0 +1,127 @@
+[
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "<@U1HAU35L1> is it necessary for this assignment that the functional version results in faster execution?",
+        "ts": "1478370400.000548"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "No but if your performance is so low that there is an extreme difference between either approach its possible you're not approaching the problem correctly",
+        "ts": "1478371199.000549"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "is a difference of 1 sec vs 0.05 extreme?",
+        "ts": "1478371911.000550"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "Nah. I mean i bet you could find a way to optimize it if you wanted but that would be strictly for your own benefit",
+        "ts": "1478376063.000551"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "thanks..",
+        "ts": "1478376090.000552"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "also, can we use recursion for the non-functional solution of the triangle problem?",
+        "ts": "1478376109.000553"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "I don't have the text of the assignment in front of me but I think we would prefer you didn't ",
+        "ts": "1478376193.000554"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "thanks",
+        "ts": "1478376244.000555"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "assuming recursion is strictly defined as calling a function itself, I think we can do without it",
+        "ts": "1478376284.000556"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "Yes. I think approaching the problem that way would also make it more difficult to convert to functional ",
+        "ts": "1478376337.000557"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<https:\/\/twitter.com\/vitalikbuterin\/status\/794721814815461376>",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/VitalikButerin|@VitalikButerin>: Two eyes for an eye will make the whole world blind in O(log(n)) time.",
+                "ts": 1478311420,
+                "author_name": "Vitalik Buterin",
+                "author_link": "https:\/\/twitter.com\/VitalikButerin\/status\/794721814815461376",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/421617820644810752\/rncc5OWi_normal.jpeg",
+                "author_subname": "@VitalikButerin",
+                "text": "Two eyes for an eye will make the whole world blind in O(log(n)) time.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/vitalikbuterin\/status\/794721814815461376",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "ts": "1478399814.000560"
+    },
+    {
+        "type": "message",
+        "user": "U1UV7S0SX",
+        "text": "<@U1HAU35L1>: When we are taking the functional programming approach, can you give an outline as to what functions can be used and what cannot be? I know that we are not allowed to \u2018if\u2019 and \u2018for\u2019 outside list comprehensions or lambda functions",
+        "ts": "1478405347.000562"
+    },
+    {
+        "type": "message",
+        "user": "U1UV7S0SX",
+        "text": "Anything else? What about the \u2018sorted\u2019 function?",
+        "ts": "1478405359.000563"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "Sorted is fine",
+        "ts": "1478405620.000564"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "Also when you say an if in a lambda, make sure to consider 'filter'",
+        "ts": "1478405913.000565"
+    },
+    {
+        "type": "message",
+        "user": "U1UV7S0SX",
+        "text": "Oh okay. Got your point",
+        "ts": "1478405943.000566"
+    },
+    {
+        "type": "message",
+        "user": "U1UV7S0SX",
+        "text": "But its fine inside a list comprehension, right?",
+        "ts": "1478405953.000567"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "Yes, they serve the same purpose",
+        "ts": "1478406367.000568"
+    }
+]

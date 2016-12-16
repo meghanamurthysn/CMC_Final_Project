@@ -1,0 +1,17 @@
+[
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "please dont swear at us in languages we don't know",
+        "ts": "1473784594.000002",
+        "reactions": [
+            {
+                "name": "flag-it",
+                "users": [
+                    "U1VPDG7B3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

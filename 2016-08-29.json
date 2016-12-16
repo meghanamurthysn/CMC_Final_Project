@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1UKBMGGZ",
+        "text": "<@U1UKBMGGZ|proxima> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472497123.000002"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<!channel> the note i just sent says lab starts at 1, it starts at 12, replace 1 with 12 in all instances, thanks",
+        "ts": "1475021319.000062"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "<@U1HAU35L1> I have been unable to install BS on PyCharm3. It shows up in the list, starts installing but ends with some error.",
+        "ts": "1475031885.000063"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "send me the error in a dm",
+        "ts": "1475031902.000064"
+    },
+    {
+        "type": "message",
+        "user": "U1V24FB98",
+        "text": "<@U1Z9AU3EG> i had to use `pip3 install BeautifulSoup4`",
+        "ts": "1475032182.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1V24FB98",
+        "text": "when I just used `pip`, it installed the Python 2 version",
+        "ts": "1475032196.000066",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U1HAU35L1",
+                    "U1V17D2K1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "thanks <@U1V24FB98> I'll try that",
+        "ts": "1475032399.000067"
+    }
+]

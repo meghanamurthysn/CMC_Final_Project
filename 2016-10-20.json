@@ -1,0 +1,330 @@
+[
+    {
+        "type": "message",
+        "user": "U1UKGBYUA",
+        "text": "Random quesrion: do developers across the world comment in English or is there something like local dev communities that actually comment their code in their native language? Is that a thing?",
+        "ts": "1476980729.000227"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<http:\/\/programmers.stackexchange.com\/questions\/1483\/do-people-in-non-english-speaking-countries-code-in-english>",
+        "attachments": [
+            {
+                "title": "Do people in non-English-speaking countries code in English?",
+                "title_link": "http:\/\/programmers.stackexchange.com\/questions\/1483\/do-people-in-non-english-speaking-countries-code-in-english",
+                "text": "I've heard it said (by coworkers) that everyone \"codes in English\" regardless of where they're from. I find that difficult to believe, however I wouldn't be surprised if, for most programming langu...",
+                "fallback": "Do people in non-English-speaking countries code in English?",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/programmers\/img\/apple-touch-icon@2.png?v=8a6d048f3c78&a",
+                "from_url": "http:\/\/programmers.stackexchange.com\/questions\/1483\/do-people-in-non-english-speaking-countries-code-in-english",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "http:\/\/cdn.sstatic.net\/Sites\/programmers\/img\/favicon.ico?v=28d2686ad0b9",
+                "service_name": "programmers.stackexchange.com",
+                "id": 1
+            }
+        ],
+        "ts": "1476980954.000228"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "(this is a famous post)",
+        "ts": "1476980968.000230",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1UKGBYUA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1V1LB2DQ|steve> uploaded a file: <https:\/\/ucbischool.slack.com\/files\/steve\/F2S2GA9JN\/pasted_image_at_2016_10_20_09_34_am.png|Awesome..>",
+        "file": {
+            "id": "F2S2GA9JN",
+            "created": 1476981254,
+            "timestamp": 1476981254,
+            "name": "Pasted image at 2016_10_20 09_34 AM.png",
+            "title": "Awesome..",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1V1LB2DQ",
+            "editable": false,
+            "size": 60352,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F2S2GA9JN\/pasted_image_at_2016_10_20_09_34_am.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F2S2GA9JN\/download\/pasted_image_at_2016_10_20_09_34_am.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2S2GA9JN-bad22bb6eb\/pasted_image_at_2016_10_20_09_34_am_64.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2S2GA9JN-bad22bb6eb\/pasted_image_at_2016_10_20_09_34_am_80.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2S2GA9JN-bad22bb6eb\/pasted_image_at_2016_10_20_09_34_am_360.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360_w": 360,
+            "thumb_360_h": 106,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2S2GA9JN-bad22bb6eb\/pasted_image_at_2016_10_20_09_34_am_480.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_480_w": 480,
+            "thumb_480_h": 141,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2S2GA9JN-bad22bb6eb\/pasted_image_at_2016_10_20_09_34_am_160.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "image_exif_rotation": 1,
+            "original_w": 676,
+            "original_h": 199,
+            "permalink": "https:\/\/ucbischool.slack.com\/files\/steve\/F2S2GA9JN\/pasted_image_at_2016_10_20_09_34_am.png",
+            "permalink_public": "https:\/\/slack-files.com\/T0WA5NWKG-F2S2GA9JN-e170a3ceb5",
+            "channels": [
+                "C1UJZTSQ0"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "U1UKBNCC9",
+                        "U1V17D2K1",
+                        "U1VPDG7B3",
+                        "U1UKBLRS5"
+                    ],
+                    "count": 4
+                },
+                {
+                    "name": "flag-ca",
+                    "users": [
+                        "U1HAU35L1",
+                        "U1UJXHWB0",
+                        "U1V17D2K1"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        "user": "U1V1LB2DQ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1V1LB2DQ|steve>",
+        "bot_id": null,
+        "ts": "1476981256.000231"
+    },
+    {
+        "type": "message",
+        "user": "U1V24FB98",
+        "text": "Please ignore Doug. Everyone purchase Yahoo! stock.",
+        "ts": "1476982157.000239",
+        "reactions": [
+            {
+                "name": "moneybag",
+                "users": [
+                    "U1UKGBYUA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1UKGBYUA",
+        "text": "Doug is not agnostic in anything. He just decides to not have an opinion :point_up_2: ",
+        "ts": "1476982232.000240"
+    },
+    {
+        "type": "message",
+        "user": "U1UKBLRS5",
+        "text": "This class must be renamed \"The Doug Tygar Show\" - so fun",
+        "ts": "1476982386.000241"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGBYUA",
+        "text": "I wished we could put him on YouTube and give him the fame he deserves <@U1UKBLRS5> ",
+        "ts": "1476982431.000242",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U1UKBLRS5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1UKGBYUA",
+        "text": "<@U1XFTHHB7> knows his bread baking",
+        "ts": "1476983055.000243"
+    },
+    {
+        "user": "U1XFTHHB7",
+        "inviter": "U1UKGBYUA",
+        "text": "<@U1XFTHHB7|peter.rowland> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476983060.000244"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "<https:\/\/en.wikipedia.org\/wiki\/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo>",
+        "ts": "1476983322.000246",
+        "reactions": [
+            {
+                "name": "water_buffalo",
+                "users": [
+                    "U1V17D2K1",
+                    "U1V24FB98",
+                    "U1V1L270S"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1V24FB98",
+        "text": "^^ this one also uses the city of Buffalo",
+        "ts": "1476983389.000247",
+        "reactions": [
+            {
+                "name": "shamu",
+                "users": [
+                    "U1V17D2K1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "water_buffalo",
+                "users": [
+                    "U1V17D2K1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "\/giphy buffalo buffalo buffalo buffalo buffalo buffalo",
+        "bot_id": "B1V01MZ8X",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/flying-wings-buffalo-3oEjHDKYLvHxpSnPos>",
+                "image_url": "https:\/\/media1.giphy.com\/media\/3oEjHDKYLvHxpSnPos\/giphy.gif",
+                "image_width": 500,
+                "image_height": 553,
+                "image_bytes": 325724,
+                "is_animated": true,
+                "title": "buffalo buffalo buffalo buffalo buffalo buffalo",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/flying-wings-buffalo-3oEjHDKYLvHxpSnPos"
+            }
+        ],
+        "ts": "1476983548.000248",
+        "reactions": [
+            {
+                "name": "water_buffalo",
+                "users": [
+                    "U1V17D2K1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "There are much odder results from giphy for that.",
+        "ts": "1476983599.000249"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1UJXHWB0|keshavp> uploaded a file: <https:\/\/ucbischool.slack.com\/files\/keshavp\/F2S2QCRUG\/36685.original-9394.jpg|1>",
+        "file": {
+            "id": "F2S2QCRUG",
+            "created": 1476983733,
+            "timestamp": 1476983733,
+            "name": "36685.original-9394.jpg",
+            "title": "1",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1UJXHWB0",
+            "editable": false,
+            "size": 71906,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F2S2QCRUG\/36685.original-9394.jpg?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F2S2QCRUG\/download\/36685.original-9394.jpg?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2S2QCRUG-85aea6bf0d\/36685.original-9394_64.jpg?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2S2QCRUG-85aea6bf0d\/36685.original-9394_80.jpg?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2S2QCRUG-85aea6bf0d\/36685.original-9394_360.jpg?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360_w": 360,
+            "thumb_360_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2S2QCRUG-85aea6bf0d\/36685.original-9394_160.jpg?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "image_exif_rotation": 1,
+            "original_w": 468,
+            "original_h": 468,
+            "permalink": "https:\/\/ucbischool.slack.com\/files\/keshavp\/F2S2QCRUG\/36685.original-9394.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T0WA5NWKG-F2S2QCRUG-e39aed7b98",
+            "channels": [
+                "C1UJZTSQ0"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1UJXHWB0",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1UJXHWB0|keshavp>",
+        "bot_id": null,
+        "ts": "1476983735.000250"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "\/giphy #echo buffalo buffalo buffalo buffalo buffalo buffalo buffalo",
+        "bot_id": "B1V01MZ8X",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/media1.giphy.com\/gifsu\/3o7aTHndAcEiHhhetq\/giphy-glitter.gif>",
+                "image_url": "http:\/\/media1.giphy.com\/gifsu\/3o7aTHndAcEiHhhetq\/giphy-glitter.gif",
+                "image_width": 400,
+                "image_height": 400,
+                "image_bytes": 72412,
+                "is_animated": true,
+                "title": "#echo buffalo buffalo buffalo buffalo buffalo buffalo buffalo",
+                "id": 1,
+                "title_link": "http:\/\/media1.giphy.com\/gifsu\/3o7aTHndAcEiHhhetq\/giphy-glitter.gif"
+            }
+        ],
+        "ts": "1476983774.000251"
+    },
+    {
+        "type": "message",
+        "user": "U1V17D2K1",
+        "text": "<https:\/\/en.wikipedia.org\/wiki\/1989_Loma_Prieta_earthquake>",
+        "ts": "1476984093.000252"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "man... 206 TAs are on top of the grading.",
+        "ts": "1476986786.000253"
+    }
+]

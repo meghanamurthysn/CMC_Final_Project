@@ -1,0 +1,67 @@
+[
+    {
+        "type": "message",
+        "user": "U1V17D2K1",
+        "text": "<https:\/\/en.wikipedia.org\/wiki\/Jon_Lech_Johansen>",
+        "ts": "1475774781.000112"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1V24FB98|gabe> uploaded a file: <https:\/\/ucbischool.slack.com\/files\/gabe\/F2LGAQNJW\/he_s_not_the_hero_mims_deserves....jpg|He's not the hero MIMS deserves...>",
+        "file": {
+            "id": "F2LGAQNJW",
+            "created": 1475810492,
+            "timestamp": 1475810492,
+            "name": "He's not the hero MIMS deserves....jpg",
+            "title": "He's not the hero MIMS deserves...",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1V24FB98",
+            "editable": false,
+            "size": 19121,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F2LGAQNJW\/he_s_not_the_hero_mims_deserves....jpg?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F2LGAQNJW\/download\/he_s_not_the_hero_mims_deserves....jpg?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2LGAQNJW-244a54f8ff\/he_s_not_the_hero_mims_deserves..._64.jpg?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2LGAQNJW-244a54f8ff\/he_s_not_the_hero_mims_deserves..._80.jpg?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2LGAQNJW-244a54f8ff\/he_s_not_the_hero_mims_deserves..._360.jpg?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360_w": 225,
+            "thumb_360_h": 293,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2LGAQNJW-244a54f8ff\/he_s_not_the_hero_mims_deserves..._160.jpg?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "image_exif_rotation": 1,
+            "original_w": 225,
+            "original_h": 293,
+            "permalink": "https:\/\/ucbischool.slack.com\/files\/gabe\/F2LGAQNJW\/he_s_not_the_hero_mims_deserves....jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T0WA5NWKG-F2LGAQNJW-d510c8e1db",
+            "channels": [
+                "C1UJZTSQ0"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "raised_hands",
+                    "users": [
+                        "U1V17D2K1"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        "user": "U1V24FB98",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1V24FB98|gabe>",
+        "bot_id": null,
+        "ts": "1475810494.000113"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "user": "U1WKPSN94",
+        "text": "<@U1WKPSN94|thisisedyip> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474139123.000002"
+    },
+    {
+        "user": "U1X9JL550",
+        "text": "<@U1X9JL550|meghanamurthy> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474145832.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1UKBLRS5",
+        "text": "<@U1UJXHWB0> <@U1HAU35L1> : Does height\/depth mean the number of nodes on the longest path or number of edges?",
+        "ts": "1474146941.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1UV7S0SX",
+        "text": "Nodes",
+        "ts": "1474147015.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1UV7S0SX",
+        "text": "Height of an empty tree = 0. Height of a tree with only the root = 1",
+        "ts": "1474147030.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1UKBLRS5",
+        "text": "awesome thanks.",
+        "ts": "1474147042.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "^",
+        "ts": "1474147043.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1UV7S0SX",
+        "text": "Hence, the number of nodes. That\u2019s my understanding",
+        "ts": "1474147044.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1UV7S0SX",
+        "text": "Number of nodes in the longest path from the rot",
+        "ts": "1474147072.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1UV7S0SX",
+        "text": "root*",
+        "ts": "1474147073.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1UKBLRS5",
+        "text": "got it",
+        "ts": "1474147076.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "but please ask these on piazza",
+        "ts": "1474147125.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "or at least, we\u2019d prefer you ask on piazza :slightly_smiling_face:",
+        "ts": "1474147146.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "sends us e-mail notifications, answers don\u2019t get crowded out with other stuff",
+        "ts": "1474147158.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1UKBLRS5",
+        "text": "alright, will do henceforth :slightly_smiling_face:",
+        "ts": "1474147180.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1UKBLRS5",
+        "text": "(just saw that someone's already posted it there too!)",
+        "ts": "1474147236.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "Meh... it's usually defined as the number of edges. My numbers will be one off from the answer key... I'm not going to sweat it as I defined it as such in the readme.",
+        "ts": "1474154566.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1WKPSN94",
+        "text": "is anybody\u2019s test.py file giving them trouble?",
+        "ts": "1474160996.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1WKPSN94",
+        "text": "(the default one included in starter pack)",
+        "ts": "1474161011.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1UV7S0SX",
+        "text": "One issue is with the inOrder function",
+        "ts": "1474161026.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1UV7S0SX",
+        "text": "The name is wrong in the Test file and the BST file",
+        "ts": "1474161034.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1UV7S0SX",
+        "text": "As in the names don\u2019t match",
+        "ts": "1474161042.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1WKPSN94",
+        "text": "nm, i figured it out",
+        "ts": "1474162762.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1WKPSN94",
+        "text": "thanks to arnavgoyal",
+        "ts": "1474162766.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "Yeah I messed that one up sorry",
+        "ts": "1474163085.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "Or it was a hidden test to spot function names incompatible with pep-8. You pick",
+        "ts": "1474163121.000027",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U1V1LB2DQ",
+                    "U1UKGBYUA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "it should be T.in_order_print()",
+        "ts": "1474167653.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "<@U1HAU35L1> are we allowed to add some more properties to the Tree or Node class?",
+        "ts": "1474167855.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "Yes",
+        "ts": "1474167872.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "thanks",
+        "ts": "1474167889.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "Do whatever you want, just don't break the external (non _) interface to the class",
+        "ts": "1474167904.000032"
+    }
+]

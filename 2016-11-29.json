@@ -1,0 +1,214 @@
+[
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<https:\/\/xkcd.com\/538\/> <!here|@here>",
+        "attachments": [
+            {
+                "title": "Security",
+                "title_link": "http:\/\/xkcd.com\/538\/",
+                "author_name": "xkcd",
+                "author_link": "http:\/\/xkcd.com\/",
+                "image_url": "http:\/\/imgs.xkcd.com\/comics\/security.png",
+                "image_width": 448,
+                "image_height": 274,
+                "image_bytes": 26341,
+                "text": "[Title text] \"Actual actual reality: nobody cares about his secrets.  (Also, I would be hard-pressed to find that wrench for $5.)\"",
+                "fallback": "xkcd: Security",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/xkcd.png",
+                "id": 1
+            }
+        ],
+        "ts": "1480440037.000062"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<https:\/\/www.amazon.com\/Million-Random-Digits-Normal-Deviates\/dp\/0833030477>",
+        "ts": "1480441248.000064"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<http:\/\/dilbert.com\/strip\/2001-10-25>",
+        "attachments": [
+            {
+                "service_name": "Dilbert",
+                "title": " Dilbert Comic Strip on 2001-10-25 | Dilbert by Scott Adams",
+                "title_link": "http:\/\/dilbert.com\/strip\/2001-10-25",
+                "fallback": "Dilbert:  Dilbert Comic Strip on 2001-10-25 | Dilbert by Scott Adams",
+                "image_url": "http:\/\/assets.amuniversal.com\/321a39e06d6401301d80001dd8b71c47",
+                "from_url": "http:\/\/dilbert.com\/strip\/2001-10-25",
+                "image_width": 846,
+                "image_height": 250,
+                "image_bytes": 79601,
+                "service_icon": "http:\/\/dilbert.com\/assets\/favicon\/apple-touch-icon-57x57-e8da3768e1534934c4b5760e6e5de064.png",
+                "id": 1
+            }
+        ],
+        "ts": "1480441259.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<https:\/\/www.trustworthyinternet.org\/ssl-pulse\/>",
+        "ts": "1480441592.000067"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "btw, the reviews for a million random digits are hilarious",
+        "ts": "1480445313.000068"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "```The book is a promising reference concept, but the execution is somewhat sloppy. Whatever generator they used was not fully tested. The bulk of each page seems random enough. However at the lower left and lower right of alternate pages, the number is found to increment directly.```",
+        "ts": "1480445364.000069"
+    },
+    {
+        "type": "message",
+        "user": "U1UKBNCC9",
+        "text": "The \"Customers Who Viewed This Item Also Viewed:\" is equally hilarious",
+        "ts": "1480445528.000070"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1UKBNCC9|shannon> uploaded a file: <https:\/\/ucbischool.slack.com\/files\/shannon\/F38EUSJJH\/screen_shot_2016-11-29_at_10.51.43_am.png|Screen Shot 2016-11-29 at 10.51.43 AM.png>",
+        "file": {
+            "id": "F38EUSJJH",
+            "created": 1480445537,
+            "timestamp": 1480445537,
+            "name": "Screen Shot 2016-11-29 at 10.51.43 AM.png",
+            "title": "Screen Shot 2016-11-29 at 10.51.43 AM.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1UKBNCC9",
+            "editable": false,
+            "size": 317798,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F38EUSJJH\/screen_shot_2016-11-29_at_10.51.43_am.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F38EUSJJH\/download\/screen_shot_2016-11-29_at_10.51.43_am.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F38EUSJJH-86e5a87c61\/screen_shot_2016-11-29_at_10.51.43_am_64.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F38EUSJJH-86e5a87c61\/screen_shot_2016-11-29_at_10.51.43_am_80.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F38EUSJJH-86e5a87c61\/screen_shot_2016-11-29_at_10.51.43_am_360.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360_w": 360,
+            "thumb_360_h": 121,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F38EUSJJH-86e5a87c61\/screen_shot_2016-11-29_at_10.51.43_am_480.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_480_w": 480,
+            "thumb_480_h": 162,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F38EUSJJH-86e5a87c61\/screen_shot_2016-11-29_at_10.51.43_am_160.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F38EUSJJH-86e5a87c61\/screen_shot_2016-11-29_at_10.51.43_am_720.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_720_w": 720,
+            "thumb_720_h": 242,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F38EUSJJH-86e5a87c61\/screen_shot_2016-11-29_at_10.51.43_am_960.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_960_w": 960,
+            "thumb_960_h": 323,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F38EUSJJH-86e5a87c61\/screen_shot_2016-11-29_at_10.51.43_am_1024.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 345,
+            "image_exif_rotation": 1,
+            "original_w": 1206,
+            "original_h": 406,
+            "permalink": "https:\/\/ucbischool.slack.com\/files\/shannon\/F38EUSJJH\/screen_shot_2016-11-29_at_10.51.43_am.png",
+            "permalink_public": "https:\/\/slack-files.com\/T0WA5NWKG-F38EUSJJH-973cdd4cc6",
+            "channels": [
+                "C1UJZTSQ0"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1UKBNCC9",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1UKBNCC9|shannon>",
+        "bot_id": null,
+        "ts": "1480445542.000071"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1HAU35L1|paul.glenn> uploaded a file: <https:\/\/ucbischool.slack.com\/files\/paul.glenn\/F38AB559R\/pasted_image_at_2016_11_29_10_53_am.png|Pasted image at 2016-11-29, 10:53 AM>",
+        "file": {
+            "id": "F38AB559R",
+            "created": 1480445633,
+            "timestamp": 1480445633,
+            "name": "Pasted image at 2016_11_29 10_53 AM.png",
+            "title": "Pasted image at 2016-11-29, 10:53 AM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1HAU35L1",
+            "editable": false,
+            "size": 79907,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F38AB559R\/pasted_image_at_2016_11_29_10_53_am.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F38AB559R\/download\/pasted_image_at_2016_11_29_10_53_am.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F38AB559R-e61116e21a\/pasted_image_at_2016_11_29_10_53_am_64.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F38AB559R-e61116e21a\/pasted_image_at_2016_11_29_10_53_am_80.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F38AB559R-e61116e21a\/pasted_image_at_2016_11_29_10_53_am_360.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360_w": 360,
+            "thumb_360_h": 243,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F38AB559R-e61116e21a\/pasted_image_at_2016_11_29_10_53_am_480.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_480_w": 480,
+            "thumb_480_h": 324,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F38AB559R-e61116e21a\/pasted_image_at_2016_11_29_10_53_am_160.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "image_exif_rotation": 1,
+            "original_w": 512,
+            "original_h": 346,
+            "permalink": "https:\/\/ucbischool.slack.com\/files\/paul.glenn\/F38AB559R\/pasted_image_at_2016_11_29_10_53_am.png",
+            "permalink_public": "https:\/\/slack-files.com\/T0WA5NWKG-F38AB559R-3da5585a76",
+            "channels": [
+                "C1UJZTSQ0"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1HAU35L1",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1HAU35L1|paul.glenn>",
+        "bot_id": null,
+        "ts": "1480445634.000072"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "my secret santa is lucky i didnt find out about karma pootra until just now",
+        "ts": "1480445650.000073"
+    },
+    {
+        "type": "message",
+        "user": "U1X9JL550",
+        "text": "Hey everyone!\nI am working on a project for CMC and I need the usage statistics of this channel for analysis. It is only the usage and the text messages will not be used. Please let me know if anyone has any objections or wants to be excluded from the analysis. Thankyou!",
+        "ts": "1480452405.000075"
+    },
+    {
+        "type": "message",
+        "user": "U1X9JL550",
+        "text": "Since nobody responded I am assuming that there are no objections to use the data for analysis.",
+        "ts": "1480466551.000078"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "<@U1X9JL550> will you anonymize the user ids?",
+        "ts": "1480467111.000079"
+    }
+]

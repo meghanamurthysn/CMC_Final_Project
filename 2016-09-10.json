@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "user": "U1UKGET0A",
+        "text": "@paul for the assignment 2, input can be only in English (plus special characters, etc), right?",
+        "ts": "1473532673.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "yes",
+        "ts": "1473532731.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "<@U1UKGET0A>",
+        "ts": "1473532737.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGET0A",
+        "text": "thanks!",
+        "ts": "1473532747.000005"
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "type": "message",
+        "user": "U1V24FB98",
+        "text": "hey y\u2019all. sounds like some people are struggling with 206. this homework is definitely our trickiest one yet so if anyone wants some help with it just let me know.",
+        "ts": "1477860933.000379",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1V17D2K1",
+                    "U1UKBNCC9",
+                    "U1UKBLRS5",
+                    "U1UJZQAMN"
+                ],
+                "count": 4
+            },
+            {
+                "name": "trophy",
+                "users": [
+                    "U1UKBNCC9",
+                    "U1UKBLRS5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1V24FB98",
+        "text": "Also, this wasn\u2019t mentioned in the homework, but there\u2019s a good chance that you\u2019ll need to check the type of content you\u2019re appending\/rendering",
+        "ts": "1477861719.000380"
+    },
+    {
+        "type": "message",
+        "user": "U1V24FB98",
+        "text": "Because `append` can take a string or an `Element`.",
+        "ts": "1477861738.000381"
+    },
+    {
+        "type": "message",
+        "user": "U1V24FB98",
+        "text": "There\u2019s this method called `isinstance` which checks whether or not something is an instance of a class",
+        "edited": {
+            "user": "U1V24FB98",
+            "ts": "1477861779.000000"
+        },
+        "ts": "1477861772.000382"
+    },
+    {
+        "type": "message",
+        "user": "U1V24FB98",
+        "text": "```\ne = Element(\u2018I\u2019ve got soul but I\u2019m not a soldier.\u2019)\ndank_bool = isinstance(e, Element)\n&gt; True\ndank_bool = isinstance(e, str)\n&gt; False\n```",
+        "edited": {
+            "user": "U1V24FB98",
+            "ts": "1477861919.000000"
+        },
+        "ts": "1477861865.000384"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "killer code",
+        "ts": "1477861915.000385"
+    },
+    {
+        "type": "message",
+        "user": "U1V24FB98",
+        "text": "#shipit:ship:",
+        "ts": "1477861949.000387"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "since we're doing OOP right now, there's a couple different ways to check the type of an object in python. gabe used `isinstance` but his code would also work with `dank_bool is Element` and `dank_bool is str`",
+        "ts": "1477862142.000388"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "isinstance accounts for inheritance",
+        "ts": "1477862153.000389"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "so if you subclassed `str` and then checked an object of that class with `isinstance` it would be `True`",
+        "ts": "1477862176.000390"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "but if you said `string_subclass_obj is str` it would be false",
+        "ts": "1477862197.000391"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "the other way is to use `type()` as in `type(my_dict) == type(dict())`",
+        "ts": "1477862227.000392"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "this is considerably slower, because the right side of that operation has to create a new `dict` first, then execute the function to check its type",
+        "ts": "1477862247.000393"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<https:\/\/media1.giphy.com\/media\/Y2nbrJyAR6RiM\/200_s.gif>",
+        "attachments": [
+            {
+                "fallback": "304x200px image",
+                "image_url": "https:\/\/media1.giphy.com\/media\/Y2nbrJyAR6RiM\/200_s.gif",
+                "image_width": 304,
+                "image_height": 200,
+                "image_bytes": 40409,
+                "from_url": "https:\/\/media1.giphy.com\/media\/Y2nbrJyAR6RiM\/200_s.gif",
+                "id": 1
+            }
+        ],
+        "ts": "1477862291.000394"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "also before keshav or one of the other java programmers pops in here, WE KNOW, other languages check types at compile time saving you all of this trouble",
+        "ts": "1477862324.000396"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "A good discussion is here... <http:\/\/stackoverflow.com\/questions\/1549801\/differences-between-isinstance-and-type-in-python>",
+        "attachments": [
+            {
+                "title": "Differences between isinstance() and type() in python",
+                "title_link": "http:\/\/stackoverflow.com\/questions\/1549801\/differences-between-isinstance-and-type-in-python",
+                "text": "What are the differences between these two code fragments? Which way is considered to be more pythonic?Using type():import typesif type(a) is types.DictType: do_something()if type(b) in ...",
+                "fallback": "Differences between isinstance() and type() in python",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded&a",
+                "from_url": "http:\/\/stackoverflow.com\/questions\/1549801\/differences-between-isinstance-and-type-in-python",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ],
+        "ts": "1477862579.000397"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "Another strategy is to use a try \/ except to handle rendering errors and defaulting to rendering an object's string representation (which for a string is simply the string)",
+        "edited": {
+            "user": "U1V1LB2DQ",
+            "ts": "1477862805.000000"
+        },
+        "ts": "1477862680.000399"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "for sure, try execept is a good pattern. i prefer to use isinstance because i think it's more explicit about the type i AM looking for, versus the type i'm NOT looking for",
+        "ts": "1477862914.000402"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "but that's 100% personal preference, there's folks out there who say try except is better because you're being more explicit about what happens in the negative case",
+        "ts": "1477862988.000403"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "#realtalk",
+        "ts": "1477863046.000404"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "someone should ask doug the hard questions: tabs vs spaces, emacs vs vim, strong typing vs weak",
+        "ts": "1477863165.000405"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "diet coke vs real coke",
+        "ts": "1477863648.000406"
+    },
+    {
+        "type": "message",
+        "user": "U1V24FB98",
+        "text": "camelCase vs snake_case",
+        "ts": "1477863692.000407"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "gabe vs. not gabe",
+        "ts": "1477863715.000408"
+    },
+    {
+        "type": "message",
+        "user": "U1WKPSN94",
+        "text": "Avengers vs justice league",
+        "ts": "1477864027.000409"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "these questions are getting less hard v quickly",
+        "ts": "1477864094.000410"
+    },
+    {
+        "type": "message",
+        "user": "U1WKPSN94",
+        "text": "Paul vs keshav",
+        "ts": "1477864351.000411"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "keshav duh",
+        "ts": "1477864771.000412"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "obviously paul... I don't win MLB hackathons everyday...",
+        "ts": "1477864940.000413"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "you speak more languages than i can code in, and can code in more languages than that. keshav fosho",
+        "ts": "1477865183.000414"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "you're tall and can chug more beer... paul for president",
+        "ts": "1477865335.000415"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "no more years! no more years!",
+        "ts": "1477865503.000416"
+    }
+]

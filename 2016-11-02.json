@@ -1,0 +1,55 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1HAU35L1|paul.glenn> uploaded a file: <https:\/\/ucbischool.slack.com\/files\/paul.glenn\/F2XS8CURG\/exercises_students.py|exercises_students.py>",
+        "file": {
+            "id": "F2XS8CURG",
+            "created": 1478113152,
+            "timestamp": 1478113152,
+            "name": "exercises_students.py",
+            "title": "exercises_students.py",
+            "mimetype": "text\/plain",
+            "filetype": "python",
+            "pretty_type": "Python",
+            "user": "U1HAU35L1",
+            "editable": true,
+            "size": 1045,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F2XS8CURG\/exercises_students.py?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F2XS8CURG\/download\/exercises_students.py?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "permalink": "https:\/\/ucbischool.slack.com\/files\/paul.glenn\/F2XS8CURG\/exercises_students.py",
+            "permalink_public": "https:\/\/slack-files.com\/T0WA5NWKG-F2XS8CURG-5c146eeb02",
+            "edit_link": "https:\/\/ucbischool.slack.com\/files\/paul.glenn\/F2XS8CURG\/exercises_students.py\/edit",
+            "preview": "from functools import reduce\n\n#### Take a list of numbers, square each element\n\nmy_nums = [1, 2, 3, 4, 5]",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">from<\/span> <span class=\"cm-variable\">functools<\/span> <span class=\"cm-keyword\">import<\/span> <span class=\"cm-builtin\">reduce<\/span><\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-comment\">#### Take a list of numbers, square each element<\/span><\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-variable\">my_nums<\/span> = [<span class=\"cm-number\">1<\/span>, <span class=\"cm-number\">2<\/span>, <span class=\"cm-number\">3<\/span>, <span class=\"cm-number\">4<\/span>, <span class=\"cm-number\">5<\/span>]<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 71,
+            "lines_more": 66,
+            "preview_is_truncated": true,
+            "channels": [
+                "C1UJZTSQ0"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1HAU35L1",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1HAU35L1|paul.glenn>",
+        "bot_id": null,
+        "ts": "1478113152.000499"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<!channel> we\u2019ll be doing these exercises today in lab to practice functional programming. here is a copy of the questions for you to follow along on your own machine. we\u2019ll distribute the answers after the lab",
+        "ts": "1478113184.000500"
+    }
+]

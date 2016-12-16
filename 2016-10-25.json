@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "The resource code for HW8 was written in Python2. <https:\/\/docs.python.org\/3.0\/whatsnew\/3.0.html> \"The StringIO and cStringIO modules are gone. Instead, import the io module and use io.StringIO or io.BytesIO for text and data respectively.\"",
+        "ts": "1477413889.000259"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "yeah please hold off on downloading that for now",
+        "ts": "1477413910.000260"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "the wrong zip was put up, we will fix it after lecture",
+        "ts": "1477413925.000261"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": ":+1:",
+        "ts": "1477413939.000262"
+    }
+]

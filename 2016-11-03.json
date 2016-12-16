@@ -1,0 +1,149 @@
+[
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<!channel> office hours are starting late, 11am in the colab, i\u2019ll stay longer if necessary",
+        "ts": "1478194201.000512"
+    },
+    {
+        "user": "U1UK5NYTH",
+        "text": "<@U1UK5NYTH|brynamo> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478194261.000513"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "btw here\u2019s the thread on midnight being falsey in python <https:\/\/bugs.python.org\/issue13936>",
+        "ts": "1478196167.000514"
+    },
+    {
+        "type": "message",
+        "user": "U1UV7S0SX",
+        "text": "<http:\/\/stackoverflow.com\/a\/30992194>\n\nFor those who are trying to figure out how to configure Sublime to run Python 3 and not Python 2",
+        "attachments": [
+            {
+                "title": "How to get Python 3.4 on Sublime Text 3?",
+                "title_link": "http:\/\/stackoverflow.com\/a\/30992194",
+                "text": "Does anyone have a step by step process for a beginner to get the latest version of Python (3.4) to work on Sublime Text 3? I tried adding Python 3 as another build but I don't think i added it",
+                "fallback": "How to get Python 3.4 on Sublime Text 3?",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded&a",
+                "from_url": "http:\/\/stackoverflow.com\/a\/30992194",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ],
+        "ts": "1478201392.000517"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1V1LB2DQ|steve> uploaded a file: <https:\/\/ucbischool.slack.com\/files\/steve\/F2XCHAVH7\/screenshot_2016-11-03-18-44-08.png|Slack for Android Upload> and commented: Wtf...",
+        "file": {
+            "id": "F2XCHAVH7",
+            "created": 1478223871,
+            "timestamp": 1478223871,
+            "name": "Screenshot_2016-11-03-18-44-08.png",
+            "title": "Slack for Android Upload",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1V1LB2DQ",
+            "editable": false,
+            "size": 314695,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F2XCHAVH7\/screenshot_2016-11-03-18-44-08.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F2XCHAVH7\/download\/screenshot_2016-11-03-18-44-08.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2XCHAVH7-fd08557a7a\/screenshot_2016-11-03-18-44-08_64.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2XCHAVH7-fd08557a7a\/screenshot_2016-11-03-18-44-08_80.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2XCHAVH7-fd08557a7a\/screenshot_2016-11-03-18-44-08_360.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360_w": 203,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2XCHAVH7-fd08557a7a\/screenshot_2016-11-03-18-44-08_480.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_480_w": 270,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2XCHAVH7-fd08557a7a\/screenshot_2016-11-03-18-44-08_160.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2XCHAVH7-fd08557a7a\/screenshot_2016-11-03-18-44-08_720.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_720_w": 405,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2XCHAVH7-fd08557a7a\/screenshot_2016-11-03-18-44-08_960.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_960_w": 540,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2XCHAVH7-fd08557a7a\/screenshot_2016-11-03-18-44-08_1024.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_1024_w": 576,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 1440,
+            "original_h": 2560,
+            "permalink": "https:\/\/ucbischool.slack.com\/files\/steve\/F2XCHAVH7\/screenshot_2016-11-03-18-44-08.png",
+            "permalink_public": "https:\/\/slack-files.com\/T0WA5NWKG-F2XCHAVH7-08a07086ff",
+            "channels": [
+                "C1UJZTSQ0"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc2Y0Y06BV",
+                "created": 1478223871,
+                "timestamp": 1478223871,
+                "user": "U1V1LB2DQ",
+                "is_intro": true,
+                "comment": "Wtf...",
+                "channel": ""
+            }
+        },
+        "user": "U1V1LB2DQ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1V1LB2DQ|steve>",
+        "bot_id": null,
+        "ts": "1478223875.000521"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGBYUA",
+        "text": "spam...",
+        "ts": "1478223887.000522"
+    },
+    {
+        "type": "message",
+        "user": "U1UV7S0SX",
+        "text": "That font!",
+        "ts": "1478223890.000523"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "Just giving a heads up",
+        "ts": "1478223911.000524"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "There's no exam for 206... fyi",
+        "ts": "1478224822.000525"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "Thanks :joy:  I was more saying wtf for how piazza is spamming\/phishing me.. i do wonder if anyone's blood pressure rose",
+        "ts": "1478224983.000526"
+    },
+    {
+        "type": "message",
+        "user": "U1V8U19T6",
+        "text": "I just saw that email and my blood pressure definitely rose!",
+        "ts": "1478238593.000528"
+    }
+]

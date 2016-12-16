@@ -1,0 +1,91 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1UKGET0A|natasha> uploaded a file: <https:\/\/ucbischool.slack.com\/files\/natasha\/F2A8VHN4A\/2016-09-09_23-17-10_screenshot.png|2016-09-09 23-17-10 screenshot.png> and commented: The second time I google for my 206 HW, and the second time this happens. My search screen just \"opened\" and Google prompted me to take their challenge.  Apparently, \"list comprehension python\" makes them believe that I \"speak their language.\" While I just keep forgetting what kind of brackets should I use in comprehensions:)",
+        "file": {
+            "id": "F2A8VHN4A",
+            "created": 1473489117,
+            "timestamp": 1473489117,
+            "name": "2016-09-09 23-17-10 screenshot.png",
+            "title": "2016-09-09 23-17-10 screenshot.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1UKGET0A",
+            "editable": false,
+            "size": 115543,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F2A8VHN4A\/2016-09-09_23-17-10_screenshot.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F2A8VHN4A\/download\/2016-09-09_23-17-10_screenshot.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2A8VHN4A-d452b28d03\/2016-09-09_23-17-10_screenshot_64.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2A8VHN4A-d452b28d03\/2016-09-09_23-17-10_screenshot_80.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2A8VHN4A-d452b28d03\/2016-09-09_23-17-10_screenshot_360.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360_w": 360,
+            "thumb_360_h": 191,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2A8VHN4A-d452b28d03\/2016-09-09_23-17-10_screenshot_480.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_480_w": 480,
+            "thumb_480_h": 254,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2A8VHN4A-d452b28d03\/2016-09-09_23-17-10_screenshot_160.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2A8VHN4A-d452b28d03\/2016-09-09_23-17-10_screenshot_720.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_720_w": 720,
+            "thumb_720_h": 381,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2A8VHN4A-d452b28d03\/2016-09-09_23-17-10_screenshot_960.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_960_w": 960,
+            "thumb_960_h": 508,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F2A8VHN4A-d452b28d03\/2016-09-09_23-17-10_screenshot_1024.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 542,
+            "image_exif_rotation": 1,
+            "original_w": 1366,
+            "original_h": 723,
+            "permalink": "https:\/\/ucbischool.slack.com\/files\/natasha\/F2A8VHN4A\/2016-09-09_23-17-10_screenshot.png",
+            "permalink_public": "https:\/\/slack-files.com\/T0WA5NWKG-F2A8VHN4A-5cd583b9e6",
+            "channels": [
+                "C1UJZTSQ0"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc2A8CK916",
+                "created": 1473489117,
+                "timestamp": 1473489117,
+                "user": "U1UKGET0A",
+                "is_intro": true,
+                "comment": "The second time I google for my 206 HW, and the second time this happens. My search screen just \"opened\" and Google prompted me to take their challenge.  Apparently, \"list comprehension python\" makes them believe that I \"speak their language.\" While I just keep forgetting what kind of brackets should I use in comprehensions:)",
+                "channel": ""
+            }
+        },
+        "user": "U1UKGET0A",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1UKGET0A|natasha>",
+        "bot_id": null,
+        "ts": "1473489121.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "didnt realize they were still doing this, was a big thing two years ago or so",
+        "ts": "1473489182.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1UKGET0A",
+        "text": "well, I can discourage them. Just need to accept the challenge.",
+        "ts": "1473489500.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "maybe you\u2019ll win",
+        "ts": "1473489551.000011"
+    }
+]

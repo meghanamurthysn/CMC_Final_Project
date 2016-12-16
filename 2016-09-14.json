@@ -1,0 +1,53 @@
+[
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<http:\/\/stackoverflow.com\/questions\/3257919\/what-is-the-difference-between-is-none-and-none>",
+        "attachments": [
+            {
+                "title": "What is the difference between \" is None \" and \" ==None \"",
+                "title_link": "http:\/\/stackoverflow.com\/questions\/3257919\/what-is-the-difference-between-is-none-and-none",
+                "text": "I recently came across this syntax, I am unaware of the difference. I would appreciate it if someone could tell me the difference.",
+                "fallback": "What is the difference between \" is None \" and \" ==None \"",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded&a",
+                "from_url": "http:\/\/stackoverflow.com\/questions\/3257919\/what-is-the-difference-between-is-none-and-none",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ],
+        "ts": "1473892576.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "small point i mentioned in lab, in python the convention when doing a comparison to none is `foo is None` not `foo == None`",
+        "ts": "1473892599.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "the reason is that in python you can change the behavior of how objects react to `==`",
+        "ts": "1473892617.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "so in the second example, the guy defines the method `__eq__` and has it always return `True`",
+        "ts": "1473892655.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "`is None` is predictable and you cant mess with it the same way",
+        "ts": "1473892666.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "This is all just an FYI, you\u2019re not responsible for any of that information",
+        "ts": "1473892691.000008"
+    }
+]

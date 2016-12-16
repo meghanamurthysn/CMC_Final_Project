@@ -1,0 +1,162 @@
+[
+    {
+        "user": "U1UJVMD44",
+        "text": "<@U1UJVMD44|emilypaul> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478890611.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "<@U1UJXHWB0> PyCharm is giving headache with the helper code saying indents expected in places which look perfectly ok to me",
+        "ts": "1478891831.000037"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "I tried to convert all to tab and also all to spaces but it's not working...",
+        "ts": "1478891852.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "try unindenting the block and reindenting it",
+        "ts": "1478891872.000039"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "If a Windows user gets 'OSError: symbolic link privilege not held' make sure you run your script with Administrator privileges....",
+        "ts": "1478891888.000040",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1UJXHWB0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "on a separate note :slightly_smiling_face:",
+        "edited": {
+            "user": "U1V1LB2DQ",
+            "ts": "1478891906.000000"
+        },
+        "ts": "1478891896.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "thanks steve yes figured that out yesterday",
+        "ts": "1478891991.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "<@U1Z9AU3EG>: Unindenting and reindenting generally works, if not start using some other editor :stuck_out_tongue:",
+        "ts": "1478891994.000044"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1Z9AU3EG|uraza> uploaded a file: <https:\/\/ucbischool.slack.com\/files\/uraza\/F31LWH31A\/pasted_image_at_2016_11_11_11_20_am.png|After unindenting and re-indenting with spaces>",
+        "file": {
+            "id": "F31LWH31A",
+            "created": 1478892041,
+            "timestamp": 1478892041,
+            "name": "Pasted image at 2016_11_11 11_20 AM.png",
+            "title": "After unindenting and re-indenting with spaces",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1Z9AU3EG",
+            "editable": false,
+            "size": 78415,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F31LWH31A\/pasted_image_at_2016_11_11_11_20_am.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0WA5NWKG-F31LWH31A\/download\/pasted_image_at_2016_11_11_11_20_am.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F31LWH31A-b8e82e5fc3\/pasted_image_at_2016_11_11_11_20_am_64.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F31LWH31A-b8e82e5fc3\/pasted_image_at_2016_11_11_11_20_am_80.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F31LWH31A-b8e82e5fc3\/pasted_image_at_2016_11_11_11_20_am_360.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_360_w": 360,
+            "thumb_360_h": 253,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F31LWH31A-b8e82e5fc3\/pasted_image_at_2016_11_11_11_20_am_480.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_480_w": 480,
+            "thumb_480_h": 337,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F31LWH31A-b8e82e5fc3\/pasted_image_at_2016_11_11_11_20_am_160.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0WA5NWKG-F31LWH31A-b8e82e5fc3\/pasted_image_at_2016_11_11_11_20_am_720.png?t=xoxe-30345778662-110666221765-110655675572-f2ab56670a",
+            "thumb_720_w": 720,
+            "thumb_720_h": 506,
+            "image_exif_rotation": 1,
+            "original_w": 861,
+            "original_h": 605,
+            "permalink": "https:\/\/ucbischool.slack.com\/files\/uraza\/F31LWH31A\/pasted_image_at_2016_11_11_11_20_am.png",
+            "permalink_public": "https:\/\/slack-files.com\/T0WA5NWKG-F31LWH31A-9e0e4ebc19",
+            "channels": [
+                "C1UJZTSQ0"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1Z9AU3EG",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1Z9AU3EG|uraza>",
+        "bot_id": null,
+        "ts": "1478892043.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "The red colored hash symbols are giving problems",
+        "ts": "1478892062.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1UJXHWB0",
+        "text": "And yes the error steve mentioned can be avoided by using the command prompt by using \"run as administrator\"",
+        "ts": "1478892064.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "supposedly they are not indented properly",
+        "ts": "1478892070.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "put `pass` under each of those functions, that could be messing with the linter",
+        "ts": "1478892076.000049"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "thank <@U1HAU35L1> this worked",
+        "ts": "1478892125.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1Z9AU3EG",
+        "text": "new learning for me inn pycharm annoyances",
+        "ts": "1478892148.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "yeah it was seeing function definitions but not any function body",
+        "ts": "1478892172.000052"
+    }
+]

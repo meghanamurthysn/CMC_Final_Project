@@ -1,0 +1,255 @@
+[
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "<http:\/\/www.onebigfluke.com\/2016\/08\/how-to-become-a-better-programmer.html>",
+        "attachments": [
+            {
+                "title": "One Big Fluke \u203a How you learn to become a better programmer",
+                "title_link": "http:\/\/www.onebigfluke.com\/2016\/08\/how-to-become-a-better-programmer.html",
+                "text": "I received a nice email last week from a professor asking for advice.",
+                "fallback": "One Big Fluke \u203a How you learn to become a better programmer",
+                "thumb_url": "http:\/\/commondatastorage.googleapis.com\/haxor\/beach.jpg",
+                "from_url": "http:\/\/www.onebigfluke.com\/2016\/08\/how-to-become-a-better-programmer.html",
+                "thumb_width": 1920,
+                "thumb_height": 1280,
+                "service_icon": "http:\/\/www.onebigfluke.com\/favicon.ico",
+                "service_name": "onebigfluke.com",
+                "id": 1
+            }
+        ],
+        "ts": "1472628397.000003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1V3CTY2D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1V3CTY2D",
+        "text": "+1 <@U1HAU35L1> unittest for coding better",
+        "ts": "1472628577.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "we wont cover them in 206 but feel free to use them. check out agile engineering in the spring if you want to go deep with testing",
+        "ts": "1472628652.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "btw i\u2019m just going to drop random links in this channel\u2026they arent hints or anything, just stuff i found interesting that i think 206 will think is interesting\u2026y\u2019all should do the same",
+        "ts": "1472628870.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1V3CTY2D",
+        "text": "I used to do the unittest a lot, and also functional and performance test",
+        "ts": "1472628874.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1V3CTY2D",
+        "text": "But I don\u2019t think we will do project coding in 206. If not, unittest applies rarely.",
+        "ts": "1472628937.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "yeah that\u2019s true, but `unittest` can be a useful way to test your code, even if you\u2019re not unit testing in a strict way",
+        "ts": "1472629048.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1HAU35L1",
+        "text": "more tomorrow :slightly_smiling_face:",
+        "ts": "1472629073.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1V3CTY2D",
+        "text": "Sure",
+        "ts": "1472629080.000012"
+    },
+    {
+        "user": "U1UKBM049",
+        "text": "<@U1UKBM049|pooja> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472630751.000013"
+    },
+    {
+        "user": "U1UJZPF9N",
+        "text": "<@U1UJZPF9N|dkalpathi> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472654627.000002"
+    },
+    {
+        "user": "U1UK5QPEZ",
+        "text": "<@U1UK5QPEZ|bhuvana> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472654931.000003"
+    },
+    {
+        "user": "U1UKBJV7B",
+        "text": "<@U1UKBJV7B|hadrien> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472658490.000002"
+    },
+    {
+        "user": "U22E62NUW",
+        "text": "<@U22E62NUW|shrestha> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671396.000003"
+    },
+    {
+        "user": "U1UKBLRS5",
+        "text": "<@U1UKBLRS5|malavika> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671398.000004"
+    },
+    {
+        "user": "U1UKBMRT3",
+        "text": "<@U1UKBMRT3|rohit.raghavan> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671399.000005"
+    },
+    {
+        "user": "U1XF9LMPC",
+        "text": "<@U1XF9LMPC|nisha-isha> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671405.000006"
+    },
+    {
+        "user": "U1XK8D2HK",
+        "text": "<@U1XK8D2HK|ankeetshankar> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671407.000007"
+    },
+    {
+        "user": "U1UKBNCC9",
+        "text": "<@U1UKBNCC9|shannon> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671407.000008"
+    },
+    {
+        "user": "U1VPDG7B3",
+        "text": "<@U1VPDG7B3|lucia> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671408.000009"
+    },
+    {
+        "user": "U1UHK9L7M",
+        "text": "<@U1UHK9L7M|morgan> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671411.000010"
+    },
+    {
+        "user": "U1UJZQAMN",
+        "text": "<@U1UJZQAMN|nancy> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671414.000011"
+    },
+    {
+        "user": "U1WP3C77X",
+        "text": "<@U1WP3C77X|gosophiego> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671416.000012"
+    },
+    {
+        "user": "U1X7PMGAZ",
+        "text": "<@U1X7PMGAZ|mudit> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671417.000013"
+    },
+    {
+        "user": "U1V24FB98",
+        "text": "<@U1V24FB98|gabe> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671419.000014"
+    },
+    {
+        "user": "U1V307X4Z",
+        "text": "<@U1V307X4Z|anna.cho> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671425.000015"
+    },
+    {
+        "user": "U1WEGKWAV",
+        "text": "<@U1WEGKWAV|monicah> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671426.000016"
+    },
+    {
+        "user": "U1VBEAWE4",
+        "text": "<@U1VBEAWE4|dalmia.nihar> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671429.000017"
+    },
+    {
+        "user": "U1UK61FK7",
+        "text": "<@U1UK61FK7|vikramr> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671432.000018"
+    },
+    {
+        "user": "U23SEG7QW",
+        "text": "<@U23SEG7QW|rthorp> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671437.000019"
+    },
+    {
+        "user": "U1XF3AEUV",
+        "text": "<@U1XF3AEUV|nic.mon> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671444.000020"
+    },
+    {
+        "user": "U1UJXHS06",
+        "text": "<@U1UJXHS06|karanrao> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671548.000021"
+    },
+    {
+        "user": "U1V17D2K1",
+        "text": "<@U1V17D2K1|michelle> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671575.000022"
+    },
+    {
+        "user": "U1UKGET0A",
+        "text": "<@U1UKGET0A|natasha> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472671880.000023"
+    }
+]

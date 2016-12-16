@@ -1,0 +1,74 @@
+[
+    {
+        "type": "message",
+        "user": "U1UKGET0A",
+        "text": "who finished the hw8? how long did it take you?",
+        "ts": "1477607373.000295"
+    },
+    {
+        "type": "message",
+        "user": "U1WKPSN94",
+        "text": "5 hours",
+        "ts": "1477609110.000296"
+    },
+    {
+        "type": "message",
+        "user": "U1WKPSN94",
+        "text": "for part 1",
+        "ts": "1477609115.000297"
+    },
+    {
+        "type": "message",
+        "user": "U1WKPSN94",
+        "text": "so a brisk 40 hours should be sufficient",
+        "ts": "1477609128.000298"
+    },
+    {
+        "type": "message",
+        "user": "U1UV7S0SX",
+        "text": "If you're clear about the concepts, shouldn't take you more than 5-6 hours at a stretch. ",
+        "ts": "1477609463.000299"
+    },
+    {
+        "type": "message",
+        "user": "U1UV7S0SX",
+        "text": "That's my guess. ",
+        "ts": "1477609468.000300"
+    },
+    {
+        "type": "message",
+        "user": "U1UV7S0SX",
+        "text": "Max 8",
+        "ts": "1477609476.000301"
+    },
+    {
+        "type": "message",
+        "user": "U1WKPSN94",
+        "text": "yes, to arnav\u2019s point, i am the opposite of clear on the concepts",
+        "ts": "1477609828.000302"
+    },
+    {
+        "type": "message",
+        "user": "U1UKBNCC9",
+        "text": "^ but really good at teaching part 1! ",
+        "ts": "1477610455.000304"
+    },
+    {
+        "type": "message",
+        "user": "U1V17D2K1",
+        "text": "Shooting yourself in the foot in various programming languages\n<http:\/\/www.toodarkpark.org\/computers\/humor\/shoot-self-in-foot.html>",
+        "ts": "1477630434.000310"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "SML\/NJYou program a structure for your foot, the gun, and the bullet, complete with associated signatures and function definitions. After two hours of laborious typing, forgetting of semicolons, and searching old Comp Sci textbooks for the definition of such phrases as \"polymorphic dynamic objective typing system\", as well as an additional hour for brushing up on the lambda calculus, you run the program and the interpreter tells you that the pattern-match between your foot and the bullet is nonexhaustive. You feel a slight tingling pain, but no bullethole appears in your foot because your program did not allow for side-effecting statements.",
+        "ts": "1477633444.000312"
+    },
+    {
+        "type": "message",
+        "user": "U1V1LB2DQ",
+        "text": "This is such an accurate description of SML... since we're on the topic of quasi functional languages",
+        "ts": "1477633490.000313"
+    }
+]
